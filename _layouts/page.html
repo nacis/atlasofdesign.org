@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page-header" style="background-image:url({{page.header_img}});filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src={{page.header_img}}, sizingMethod="scale");-ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src={{page.header_img}}, sizingMethod="scale");">
+  {% if page.caption %}
+    <span class="page-header-caption">{{page.caption}}</span>
+  {% endif %}
+  <div class="container">
+    <h1>{{page.title}}</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="content">
+    {{content}}
+  </div>
+</div>

@@ -1,0 +1,14 @@
+<nav id="nav" class="cf">
+  <div class="container cf">
+    <a href="<?php echo home_url(); ?>">
+      <div id="logo"><img src="/img/chevron.svg"></div>
+    </a>
+    <ul id="menu-main-menu" class="menu">
+      {% for weight in (0..10) %}{% for p in site.pages %}{% if p.weight == weight %}
+      <li class="menu-item {% if p.url == page.url %} current_page_item{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}{% endfor %}{% endfor %}
+      <li class="menu-item menu-secondary"><a target="_blank" href="http://nacis.org">nacis.org</a></li>
+    </ul>
+  </div>
+  <button id="nav-button"><i class="fa fa-bars"></i></button>
+</nav>
