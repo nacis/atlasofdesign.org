@@ -6,6 +6,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 body {
   font-family:'Open Sans', sans-serif;
   color:#555;
+  font-size: 16px;
 }
 
 .cf:before,
@@ -617,11 +618,11 @@ section {
 
 
 #description {
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: 100;
 }
 #description .container {
-  padding: 0 1em;
+  padding: 0 1em 1em;
 }
 .description-images {}
 .description-image {
@@ -691,6 +692,7 @@ section {
 }
 .recent-post-excerpt {
   height: 140px;
+  color: #999;
 }
 .recent-post:hover {
   background: #f6f6f6;

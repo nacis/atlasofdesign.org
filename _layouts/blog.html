@@ -6,7 +6,7 @@ layout: page
   {% for post in site.posts %}
   <li>
     <i class='blog-icon fa fa-align-left'></i>
-    <a href='{post.url}'>{{post.title}}
+    <a href='{{post.url}}'>{{post.title}}
       <span class='blog-post-date'>{{post.date | date: '%B %d, %Y'}}</span><br>
       <p class='blog-post-excerpt'>{{post.content | strip_html | truncatewords:40}} ...</p>
     </a>

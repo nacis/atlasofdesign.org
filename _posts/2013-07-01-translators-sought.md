@@ -1,17 +1,8 @@
 ---
-ID: 407
-post_title: Translators Sought
-author: atlasofdesign
-post_date: 2013-07-01 16:45:20
-post_excerpt: ""
+title: Translators Sought
 layout: post
-permalink: >
-  http://atlasofdesign.org/2013/07/01/translators-sought/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 Fellow map enthusiasts, the <em>Atlas of Design</em> needs your help! We're looking for volunteer translators to help take our project to the next level, putting it squarely in front of a global audience.
 
 The 2012 edition of the <em>Atlas of Design</em>, our bold little experiment, has been a great success. Our initial print run sold out quickly, and we <a title="Back in Print" href="http://atlasofdesign.org/2013/04/23/back-in-print/">brought it back for a second printing by popular demand</a>. Now, as the remaining copies of the second printing sell out, we are starting to turn our attention toward 2014, when we begin the cycle again. Another edition, with all new maps representing the latest and greatest cartographic work from around the world. This time, we want more emphasis on that last part: <strong>the world</strong>.

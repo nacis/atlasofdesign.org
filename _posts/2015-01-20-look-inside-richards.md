@@ -1,16 +1,8 @@
 ---
-ID: 1435
-post_title: 'A Look Inside &#8211; Barry Richards&#8217; Find A Room'
-author: atlasofdesign
-post_date: 2015-01-20 10:00:54
-post_excerpt: ""
+title: 'A Look Inside &#8211; Barry Richards&#8217; Find A Room'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2015/01/20/look-inside-richards/
-published: true
-ninja_forms_form:
-  - "0"
 ---
+
 <em>Once again, the editorial team invites you to join us as we take a deeper look at some of the maps featured in the </em>Atlas<em>. In these semi-transcripts of our informal conversations, we offer personal opinions about what makes each map interesting. We do not speak for the author, nor are we offering an Official </em>Atlas of Design<em> Opinion. Instead, we just want to take a moment to engage with these intriguing works and invite you all to think more deeply about what’s going on in each one, which is one of the goals of our project. The following is a conversation about Barry Richards' <a href="http://findaroom.southwales.ac.uk/">FindARoom</a>—a website for searching rooms at the University of South Wales and is featured in the new, second volume of the </em>Atlas of Design<em>.</em>
 
 &nbsp;

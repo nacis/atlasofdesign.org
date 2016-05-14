@@ -1,16 +1,8 @@
 ---
-ID: 941
-post_title: Congratulations to Our Finalists
-author: atlasofdesign
-post_date: 2014-05-19 11:54:40
-post_excerpt: ""
+title: Congratulations to Our Finalists
 layout: post
-permalink: >
-  http://atlasofdesign.org/2014/05/19/congratulations-to-our-finalists/
-published: true
-ninja_forms_form:
-  - "0"
 ---
+
 We recently finished the challenging task of selecting the maps to be printed in the 2014 <em>Atlas of Design</em>. The upcoming months will be a busy and exciting time, as we'll be assembling the final contents of the <em>Atlas</em> and preparing it for printing.
 
 To whet your appetite, below is the list of authors whose works will be appearing in this edition of the <em>Atlas</em>. Look through their work if you're unfamiliar with any of them: they are truly representative of the best contemporary mapmakers from around the globe. As to the specific pieces that will be published… you'll just have to wait until release day to find out!

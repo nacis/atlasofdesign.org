@@ -1,16 +1,8 @@
 ---
-ID: 1463
-post_title: 'A Look Inside &#8211; National Geographic&#8217;s March to Gettysburg'
-author: Sam Matthews
-post_date: 2015-04-09 08:13:48
-post_excerpt: ""
+title: 'A Look Inside &#8211; National Geographic&#8217;s March to Gettysburg'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2015/04/09/a-look-inside-national-geographics-march-to-gettysburg/
-published: true
-ninja_forms_form:
-  - "0"
 ---
+
 <em>Once again, the editorial team invites you to join us as we take a deeper look at some of the maps featured in the </em>Atlas<em>. In these semi-transcripts of our informal conversations, we offer personal opinions about what makes each map interesting. We do not speak for the author, nor are we offering an Official </em>Atlas of Design<em> Opinion. Instead, we just want to take a moment to engage with these intriguing works and invite you all to think more deeply about what’s going on in each one, which is one of the goals of our project. The following is a conversation about National Geographic's <strong>The March to Gettysburg and Back: Turning Point of the Civil War</strong>—a map showcasing military movement and life during the Civil War.</em>
 
 <hr />

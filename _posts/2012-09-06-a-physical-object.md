@@ -1,20 +1,9 @@
 ---
-ID: 96
-post_title: A Physical Object
-author: atlasofdesign
-post_date: 2012-09-06 10:36:03
-post_excerpt: ""
+title: A Physical Object
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/09/06/a-physical-object/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
-So, what is this thing going to look like?
 
-<!--more-->
+So, what is this thing going to look like?
 
 The <em>Atlas of Design</em> is meant to be a showcase of beautiful and inspiring work, and we realized early on that this meant we had to make sure the physical book, itself, lived up to its contents. We believe that high-quality cartography should be printed with high-quality materials. We want to honor our contributors by giving their work the best presentation we can. We want to make sure everyone who buys this book receives something that feels good to hold, that has a substance and weight to it. <em>Something worth owning</em>.
 

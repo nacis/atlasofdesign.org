@@ -1,17 +1,8 @@
 ---
-ID: 1
-post_title: 'Project Update: Judging Begins'
-author: atlasofdesign
-post_date: 2012-04-03 18:56:18
-post_excerpt: ""
+title: 'Project Update: Judging Begins'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/04/03/hello-world/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 Hello everyone! We're really excited about how the NACIS Atlas of Design is shaping up, and we wanted to share an update on our progress with all of you now that we've reached the next major phase of the project.<!--more-->
 
 <strong>Entrants</strong>

@@ -1,17 +1,8 @@
 ---
-ID: 235
-post_title: 'Three Questions: Adam Wilbert, CartoGaia'
-author: atlasofdesign
-post_date: 2012-09-27 11:53:49
-post_excerpt: ""
+title: 'Three Questions: Adam Wilbert, CartoGaia'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/09/27/three-questions-adam-wilbert-cartogaia/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 For the second in our series of short interviews with <em>Atlas of Design </em>contributors, we bring you Adam Wilbert, the mastermind behind <em><em>Oyster Appellations of the Pacific Northwest, Sheet 2 of 4: Northern Puget Sound</em></em>. Adam is a cartographer, photographer, teacher (check him out on Lynda!) and principal of <a title="Adam Wilbert's cartoGaia" href="http://www.cartogaia.com/" target="_blank">cartoGaia</a>. After seeing his work here and in the book, you will surely want to <a title="Adam Wilbert's Twitter Feed!" href="http://twitter.com/awilbert" target="_blank">follow him</a> on Twitter.
 
 <hr />

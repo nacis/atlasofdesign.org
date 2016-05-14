@@ -1,16 +1,8 @@
 ---
-ID: 1399
-post_title: 'A Look Inside — Jake Coolidge&#8217;s Columbia River Watershed'
-author: atlasofdesign
-post_date: 2014-12-03 11:00:25
-post_excerpt: ""
+title: 'A Look Inside — Jake Coolidge&#8217;s Columbia River Watershed'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2014/12/03/look-inside-coolidge/
-published: true
-ninja_forms_form:
-  - "0"
 ---
+
 <em>Join us as the editorial team takes a deeper look at some of the maps featured in the </em>Atlas<em>. In these informal conversations, we offer personal opinions about what makes each map interesting. </em><em>We do not speak for the author, nor are we offering an Official </em>Atlas of Design<em> Opinion. Instead, we just want to take a moment to engage with these intriguing works and offer you all a chance to think more deeply about what's going on in each one, which is one of the goals of our project. The following is a conversation about a Jake Coolidge's </em><a href="http://www.jakecoolidgecartography.com/columbia-river-watershed.html">The Columbia River Watershed</a><em>—a hand-drawn map featured in the new, second volume of the </em>Atlas of Design<em>.</em>
 
 <img class="aligncenter size-full wp-image-1404" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge1.jpg" alt="maptalk-coolidge1" width="672" height="300" />

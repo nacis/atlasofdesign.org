@@ -1,17 +1,8 @@
 ---
-ID: 14
-post_title: What is the Atlas of Design?
-author: atlasofdesign
-post_date: 2012-03-06 17:52:55
-post_excerpt: ""
+title: What is the Atlas of Design?
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/03/06/what-is-the-atlas-of-design/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 While we working on getting our inaugural edition together, we wanted to share with you what our publication is about.
 
 <!--more-->

@@ -1,17 +1,8 @@
 ---
-ID: 147
-post_title: 'Three Questions: Ben Sheesley, Axis Maps'
-author: atlasofdesign
-post_date: 2012-09-21 14:00:08
-post_excerpt: ""
+title: 'Three Questions: Ben Sheesley, Axis Maps'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/09/21/three-questions-ben-sheesley-axis-maps/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 <em>To give you all a chance to learn a little bit more about the brilliant folks whose works fill the </em>Atlas of Design<em>, we're kicking off a series of three-question interviews with some of our contributors. Ben Sheesley, one of the minds behind <a href="http://axismaps.com/">Axis Maps</a>, was kind enough to agree to be our first subject. Axis' typographic map of Washington, D.C., is the first map featured in the Atlas, and you can see a preview below.</em>
 
 <hr />

@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<header id="intro" style="background-image:url(/img/header_jake-coolidge-columbia-watershed.jpg);">
+  <div class="container">
+    <div class="row">
+      <div class="block-6" id="intro-content">
+        <h1>{{site.name}}</h1>
+        <p class="sub-text">{{page.subtitle}}</p>
+        <a href="http://nacis.org/order-the-atlas-of-design" target="_blank" class="button button-red button-small button-top">Purchase Volume II now!</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section id="sub-header">
+  <div class="container">
+    <div class="row">
+      <div class="block-6">
+        <div class="sub-header-content dark">
+          <p class="sub-text">The Atlas of Design is dedicated to showing off some of the world’s most beautiful and intriguing cartographic design. Every two years, we publish a new volume of full-color maps, selected from worldwide competition and judged by an expert panel.</p>
+        </div>
+      </div>
+      <div class="block-6">
+        <div class="sub-header-content">
+          <p class="sub-text dark">We have selected our finalists for the 2016 Edition of the Atlas of Design!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="description">
+  <div class="container">
+    {{content}}
+  </div>
+
+  <div class="description-images">
+    <div class="description-image description-image-full" style="background-image:url(/img/home-img-full.jpg);"></div>
+    <div class="description-image description-image-half" style="background-image:url(/img/home-img-aod2v2.jpg);"></div>
+    <div class="description-image description-image-half" style="background-image:url(/img/home-img-aod1.jpg);"></div>
+  </div>
+</section>
+
+<section id="recent">
+  <div class="row">
+    {% for post in site.posts | limit: 4 %}
+      <div class="block-3 recent-post">
+        <a href="{{post.url}}">
+          <h3 class="recent-post-title">{{post.title}}</h3>
+          <div class="recent-post-excerpt">{{post.content | truncatewords: 20 | strip_html}}</div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section> 

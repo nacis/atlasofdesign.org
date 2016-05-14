@@ -1,17 +1,8 @@
 ---
-ID: 279
-post_title: 'Three Questions: Cameron Booth'
-author: atlasofdesign
-post_date: 2012-10-08 21:35:19
-post_excerpt: ""
+title: 'Three Questions: Cameron Booth'
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/10/08/three-questions-for-cameron-booth/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 For the third in our series of short interviews with <em>Atlas of Design</em> contributors, we bring you Cameron Booth, brilliant designer, transit map nerd and cartographer of <em><em>U.S. Numbered Highways as a Subway Map</em></em>. Cameron is a graphic designer, photographer and (d'uh) map-maker. He is a jack-of-all-design-trades, with experience in logo design, typography, and web design. He can be found on the web <a title="here" href="http://www.cambooth.net/" target="_blank">here</a>, or if you are like us, you can just cut to the chase and follow him on <a title="Cameron Booth's Twitter Feed!" href="http://twitter.com/Chaos_Boy" target="_blank">Twitter</a>.
 
 <hr />

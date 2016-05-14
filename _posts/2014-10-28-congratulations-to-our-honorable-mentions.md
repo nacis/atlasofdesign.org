@@ -1,18 +1,8 @@
 ---
-ID: 985
-post_title: >
-  Congratulations to our Honorable
-  Mentions
-author: atlasofdesign
-post_date: 2014-10-28 18:58:33
-post_excerpt: ""
+title: Congratulations to our Honorable Mentions
 layout: post
-permalink: >
-  http://atlasofdesign.org/2014/10/28/congratulations-to-our-honorable-mentions/
-published: true
-ninja_forms_form:
-  - "0"
 ---
+
 While the <em>Atlas of Design</em> features 32 top-quality examples of modern cartography, we received many more excellent works which did not make it into the final book. We chose to recognize the quality of these maps by naming them Honorable Mentions. In such a crowded field, these works stood out:
 
 1. <a href="http://code.waag.org/buildings/" target="_blank"><strong>All 9,866,539 buildings in the Netherlands</strong></a> by Bert Spaan

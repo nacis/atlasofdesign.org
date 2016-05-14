@@ -1,17 +1,8 @@
 ---
-ID: 58
-post_title: Checking In
-author: atlasofdesign
-post_date: 2012-08-07 18:00:29
-post_excerpt: ""
+title: Checking In
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/08/07/checking-in/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 Hey everyone! Sorry for going quiet for so long, but we've been so busy working on creating the <em>Atlas of Design</em> that we haven't had a lot of time to actually tell you all about what we've been up to. Things have been going very well in the meantime, though, and we wanted to take a moment to give you a quick update.
 
 Over the last couple of months, we've selected a press to print the final volume, decided on dimensions and other specs for how the book will be constructed, and collected high-res artwork from our finalists. Right now we're working on the final revisions to the layout of the book -- figuring out what goes where, and how it will look. We're also doing some final edits to all the text in the book, including commentaries written by each of the authors discussing their work. Once we get copyright releases from all of our authors, we're hoping to share some images with you.

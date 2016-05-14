@@ -1,14 +1,8 @@
 ---
-ID: 587
-post_title: Updated Website and Upcoming CFP
-author: atlasofdesign
-post_date: 2013-12-10 22:07:58
-post_excerpt: ""
+title: Updated Website and Upcoming CFP
 layout: post
-permalink: >
-  http://atlasofdesign.org/2013/12/10/updated-website-and-upcoming-cfp/
-published: true
 ---
+
 Friendly mappers,
 
 We're excited to announce the release of our new website (on our new website)! Much has been simmering since the first release of the <em>Atlas of Design</em> in October 2012. As you may be aware, our editorial team has <a title="Transitions" href="http://atlasofdesign.org/2013/07/12/transitions/">taken on a new look</a> with the inclusion of Sam Matthews and Marty Elmer as Editor and Assistant Editor, joined by the stalwart Daniel Huffman.

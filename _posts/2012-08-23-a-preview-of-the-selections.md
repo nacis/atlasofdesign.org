@@ -1,17 +1,8 @@
 ---
-ID: 64
-post_title: A Preview of the Selections
-author: atlasofdesign
-post_date: 2012-08-23 12:50:39
-post_excerpt: ""
+title: A Preview of the Selections
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/08/23/a-preview-of-the-selections/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 The layout is done, we've got copyright releases from everyone, and we're just a few small adjustments away from delivering files to the press. Now, at long last, we can begin to share with you the book's contents!<!--more-->
 
 [caption id="attachment_67" align="alignnone" width="650"]<a href="http://atlasofdesign.org/wp-content/uploads/2012/08/Contents-low-res.pdf"><img class="size-full wp-image-67 " title="Contents Img" src="http://atlasofdesign.org/wp-content/uploads/2012/08/Contents-Img.png" alt="" width="650" height="841" /></a> Click to view PDF of the book's Table of Contents[/caption]

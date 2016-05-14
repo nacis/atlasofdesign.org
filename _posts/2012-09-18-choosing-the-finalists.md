@@ -1,19 +1,9 @@
 ---
-ID: 121
-post_title: Choosing the Finalists
-author: atlasofdesign
-post_date: 2012-09-18 12:41:16
-post_excerpt: ""
+title: Choosing the Finalists
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/09/18/choosing-the-finalists/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 So, a few weeks ago we announced the <a title="A Preview of the Selections" href="http://atlasofdesign.org/2012/08/23/a-preview-of-the-selections/">final selections</a> for the <em>Atlas of Design</em>. Twenty-seven great examples of some of the world's great cartography. Today we want to talk about how those selections were made.
-<!--more-->
 
 We received about 140 different entries as part of our initial call for submissions earlier this year. These came from about 90 authors/groups, as sometimes an author would submit multiple works for consideration. Once the submission deadline passed, we were faced with the difficult task of paring this cartographic cornucopia down into a handful of finalists.
 

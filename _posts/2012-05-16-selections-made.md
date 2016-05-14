@@ -1,17 +1,8 @@
 ---
-ID: 42
-post_title: Selections Made
-author: atlasofdesign
-post_date: 2012-05-16 13:06:39
-post_excerpt: ""
+title: Selections Made
 layout: post
-permalink: >
-  http://atlasofdesign.org/2012/05/16/selections-made/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 We received an amazing set of submissions for the Atlas of Design, and the process of cutting this group down into a final selection has not been easy. We simply don't have the space to publish all the great stuff we've seen. After much discussion, we've managed to pare our 150 entries down to 27 final selections that we will publish this fall in our inaugural edition. It was really tough to have to pass people over, and we want to acknowledge that the success of this project in its early stages would not have been possible without the help of <strong>everyone</strong> who submitted, and we hope that we'll hear from just as many people for our (hoped for) 2014 edition, if not more.
 <!--more-->
 

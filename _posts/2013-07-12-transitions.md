@@ -1,17 +1,8 @@
 ---
-ID: 416
-post_title: Transitions
-author: atlasofdesign
-post_date: 2013-07-12 13:46:40
-post_excerpt: ""
+title: Transitions
 layout: post
-permalink: >
-  http://atlasofdesign.org/2013/07/12/transitions/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 Friends of the <em>Atlas</em>,
 
 As preparations get under way for the 2014 edition of our project, we wanted to let you know that we've had some staffing changes here at AoD headquarters:
