@@ -1,6 +1,8 @@
 ---
 title: Contributors
 layout: page
+header_img: /img/building_yes.jpg
+header_caption: "map = yes (Aaron Straup Cope)"
 ---
 
 The inaugural edition of the <em>Atlas of Design</em> is built out of the hard work of a great many talented artists and designers. The contributors and their works, in order of appearance in the book:

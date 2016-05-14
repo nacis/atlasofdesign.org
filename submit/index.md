@@ -1,6 +1,8 @@
 ---
 title: Submit
 layout: page
+header_img: /img/millford.jpg
+header_caption: "The Millford Track (Roger Smith)"
 ---
 
 <div class="notification yellow">Submissions closed! Our judges are currently going through the excellent maps submitted to this year's Atlas. We will be in touch with all applicants around late April in regards to the selected finalists. Thank you for being a part of the Atlas!</div>

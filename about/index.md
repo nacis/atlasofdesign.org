@@ -2,9 +2,8 @@
 title: About
 layout: page
 weight: 1
-header_img: "/img/chevron.svg"
-header_caption:
-  - map = yes (Aaron Straup Cope)
+header_img: /img/building_yes.jpg
+header_caption: "map = yes (Aaron Straup Cope)"
 sidebar: about
 ---
 

@@ -2,6 +2,8 @@
 title: printing
 layout: page
 permalink: /about/printing/
+header_img: /img/building_yes.jpg
+header_caption: "map = yes (Aaron Straup Cope)"
 ---
 
 The <em>Atlas of Design</em> is meant to be a showcase of beautiful and inspiring work, and we realized early on that this meant we had to make sure the physical book, itself, lived up to its contents. We believe that high-quality cartography should be printed with high-quality materials. We want to honor our contributors by giving their work the best presentation we can. We want to make sure everyone who buys this book receives something that feels good to hold, that has a substance and weight to it. <em>Something worth owning</em>.

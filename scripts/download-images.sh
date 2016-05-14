@@ -1,8 +1,10 @@
 # download all volume images
 
 urls=(
-  'http://atlasofdesign.org/wp-content/uploads/2012/09/CMR-5-small.jpg'
-  'http://atlasofdesign.org/wp-content/uploads/2014/11/vol2_headerwebsite.jpg'
+  'http://atlasofdesign.org/wp-content/uploads/2013/12/building_yes.jpg'
+  'http://atlasofdesign.org/wp-content/uploads/2013/02/willamette.jpg'
+  'http://atlasofdesign.org/wp-content/uploads/2012/09/millford.jpg'
+  'http://atlasofdesign.org/wp-content/uploads/2012/04/portland_bridges.jpg'
 )
 
 

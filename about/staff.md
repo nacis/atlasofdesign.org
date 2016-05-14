@@ -2,6 +2,8 @@
 title: Staff
 layout: page
 permalink: /about/staff/
+header_img: /img/portland_bridges.jpg
+header_caption: "Portland Finger Plans (Ryan Sullivan)"
 ---
 
 The Atlas of Design is a product of the <a href="http://nacis.org">North American Cartographic Information Society</a>, and is prepared by a small, but enthusiastic staff of volunteers:
