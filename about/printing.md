@@ -1,13 +1,9 @@
 ---
-ID: 854
-post_title: Printing
-author: atlasofdesign
-post_date: 2014-01-27 11:23:25
-post_excerpt: ""
+title: printing
 layout: page
-permalink: http://atlasofdesign.org/printing/
-published: true
+permalink: /about/printing/
 ---
+
 The <em>Atlas of Design</em> is meant to be a showcase of beautiful and inspiring work, and we realized early on that this meant we had to make sure the physical book, itself, lived up to its contents. We believe that high-quality cartography should be printed with high-quality materials. We want to honor our contributors by giving their work the best presentation we can. We want to make sure everyone who buys this book receives something that feels good to hold, that has a substance and weight to it. <em>Something worth owning</em>.
 
 Why make a printed book in the first place? We could publish in digital media, after all…

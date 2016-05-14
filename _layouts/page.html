@@ -15,4 +15,11 @@ layout: default
   <div class="content">
     {{content}}
   </div>
+
+  {% if page.sidebar == "about" %}
+    <aside>{% include sidebars/about.html %}</aside>
+  {% else if page.sidebar != "none" %}
+    <aside>{% include sidebars/default.html %}</aside>
+  {% endif %}
+
 </div>

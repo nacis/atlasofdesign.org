@@ -1,16 +1,8 @@
 ---
-ID: 191
-post_title: Contributors
-author: atlasofdesign
-post_date: 2012-09-26 12:54:27
-post_excerpt: ""
+title: Contributors
 layout: page
-permalink: http://atlasofdesign.org/contributors/
-published: true
-pw_single_layout:
-  - "1"
-  - "1"
 ---
+
 The inaugural edition of the <em>Atlas of Design</em> is built out of the hard work of a great many talented artists and designers. The contributors and their works, in order of appearance in the book:
 
 Ben Sheesley, David Heyman, Andy Woodruff, Mark Harrower / <a href="http://axismaps.com/">Axis Maps</a>

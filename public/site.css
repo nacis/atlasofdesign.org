@@ -1,12 +1,18 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin:0;padding:0;border:none;}
-
 @import url(http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300);
+
+* {
+  box-sizing:border-box;  
+  -moz-box-sizing:border-box; 
+  -webkit-box-sizing:border-box;
+}
 
 body {
   font-family:'Open Sans', sans-serif;
   color:#555;
   font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 .cf:before,
@@ -51,7 +57,6 @@ p {
   margin-bottom:1.5em;
   color:#555;
   font-weight:400;
-  font-size:0.94em;
 }
 p a,
 h2 a,
@@ -69,9 +74,6 @@ h4 a:hover,
 h5 a:hover,
 h6 a:hover {
   color:#5c90a7;
-}
-p, ul li {
-  line-height:1.6em;
 }
 ul, ol {
   margin-bottom:1.5em;
@@ -100,6 +102,20 @@ h6.date {
 }
 a {
   text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1em;
+}
+table td, th {
+  border: 1px solid #d2d2d2;
+  padding: 5px;
+}
+table th {
+  background: #f6f6f6;
+  font-weight: 900;
 }
 
 /********************************************************************************
@@ -157,7 +173,7 @@ MAIN NAVIGATION
     display: block !important;
     float: left;
     position: relative;
-    margin-top: 5px;
+    margin-top: 13px;
     width: 34px;
   }
   #nav .menu {
@@ -224,6 +240,10 @@ MAIN NAVIGATION
 }
 .button-blue {
   background: #8fc3da;
+  color: white;
+}
+.button-yellow {
+  background: #FFDC00;
   color: white;
 }
 .button-green {
@@ -417,6 +437,8 @@ MAIN NAVIGATION
 */
 .content {
   padding: 1em;
+  font-size:0.92em;
+  line-height: 1.7em;
 }
 .page-feat-image {
   display:block;
@@ -496,7 +518,6 @@ MAIN NAVIGATION
 .blog-post-excerpt {
   font-size:.8em;
   color:#999;
-  max-width:400px;
 }
 .blog-list li:hover {
   font-weight:900;
@@ -520,62 +541,42 @@ MAIN NAVIGATION
 /*
   Sidebar
 */
-aside p {
-  font-size:0.9em;
-  color:#555;
+aside {}
+aside {
+  font-size: 0.8em;
 }
-aside ul {
-  list-style-type: none;
+aside .box {
+  padding: 1em;
+  margin-bottom: 1.5em;
+  background: #f6f6f6;
+  border-left: 3px solid #c0c0c0;
 }
-aside ul li {
-  margin-bottom:30px;
-  border-left:5px solid #74b4d1;
-  padding-left:10px;
+aside h4 {
+  margin-top: 0;
 }
-aside ul li:nth-child(2n) {
-  border-left:5px solid #abd2e3;
+aside .box.blue {
+  border-left: 3px solid #8fc3da;
+  background: #ddedf3;
 }
-aside ul li h3 {
-  font-size:.9em;
-  letter-spacing:2px;
-  font-weight:100;
-  text-transform:uppercase;
-  color:#333;
-  padding:5px 0;
-  margin-bottom:7px;
-  border-bottom:1px #e5e5e5 solid;
+aside .box.yellow {
+  border-left: 3px solid #FFDC00;
+  background: #fff8cc;
 }
-aside ul li ul li {
-  margin-bottom:5px;
-  border:none !important;
-  padding:0 !important;
+aside .box.red {
+  background: #f3dcd9;
+  border-left: 3px solid #da8c83;
 }
-aside a {
-  text-decoration:none;
-  color:#5c90a7;
-  font-size:0.9em;
+aside .box.image {
+  padding: 0;
+  margin-bottom: 0;
+  background: transparent;
+  border: none;
 }
-aside a:hover {
-  color:#74b4d1;
+aside .box.image img {
+  display: block;
 }
-#searchform input#s {
-  padding:5px 7px;
-  background:#f9f9f9;
-  color:#555;
-  font-size:0.9em;
-  border:1px #c0c0c0 solid;
-  opacity:0.5;
-  -o-transition:.2s;
-    -ms-transition:.2s;
-    -moz-transition:.2s;
-    -webkit-transition:.2s;
-    transition:.2s;
-    width:80%;
-}
-#searchform input#s:focus {
-  outline:none;
-  opacity:1.0;
-}
+
+
 
 /* 
   Landing Page 
@@ -601,6 +602,7 @@ section {
   border-bottom: 1px solid rgba(255,255,255,0.4);
   padding-bottom: 10px;
   margin-bottom: 10px;
+  margin-top: 0;
 }
 
 #sub-header {
@@ -768,6 +770,7 @@ section {
   text-shadow:1px 1px 1px rgba(0,0,0,0.8);
   font-weight:900;
   text-transform:uppercase;
+  margin: 0;
 }
 .volume-text {
   font-weight:100;
