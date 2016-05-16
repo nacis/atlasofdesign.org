@@ -46,6 +46,10 @@ If you are adding a new image to a post or to an existing page on the site, you 
 ![image alt text](http://example.com/my/image.jpg)
 ```
 
+## Edit a page
+
+Editing the content of a page can happen directly from Github.com if you don't want to clone the repository to your computer. Find the page you want to edit (i.e. the [about page](https://github.com/nacis/atlasofdesign.org/blob/gh-pages/about/index.md)) and select the `pen` icon on the top right of the file, which says "edit this file" when you hover on it. Update the content and then press the "commit changes" button at the bottom.
+
 ## License
 
 The Atlas of Design and the contents of the *atlasofdesign.org* are part of and copyright to the [North American Cartographic Information Society](http://nacis.org). Text on the site, unless a quotation from one of our contributors, is licensed according to a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
