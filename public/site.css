@@ -504,35 +504,36 @@ MAIN NAVIGATION
   list-style-type: none;
   margin:0; padding:0;
 }
-.blog-list li {
-  border-bottom:1px solid #e5e5e5;
-  padding:.5em 0 0;
+.blog-list-item {
+  padding:.5em;
+  margin-bottom: 1em;
   position:relative;
-  margin:0 !important;
+  display: block;
+  color: #333;
 }
-.blog-list li a {
-  font-size:1.1em;
-  color:#555;
-  text-decoration:none;
+.blog-post-title {
+  margin: 0;
 }
 .blog-post-excerpt {
-  font-size:.8em;
+  font-size:.9em;
   color:#999;
+  margin: 0;
 }
-.blog-list li:hover {
-  font-weight:900;
+.blog-list-item:hover {
+  background: #ddedf3;
 }
-.blog-list li:hover .blog-icon {
+.blog-list-item:hover .blog-icon {
   color:#b4d074;
 }
 .blog-post-date {
-  color:#74b4d1;
-  font-size:.7em;
+  color:#c0c0c0;
+  font-size:.8em;
+  font-style: italic;
 }
 .blog-icon {
   position:absolute;
   left:-40px;
-  top:12px;
+  top:15px;
   color:#e5e5e5;
 }
 
