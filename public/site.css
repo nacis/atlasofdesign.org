@@ -681,6 +681,7 @@ section {
   padding: 1.6em;
   border-right: 1px solid #d2d2d2;
   border-bottom: 1px solid #d2d2d2;
+  height: 290px;
 }
 .recent-post:last-child {
   border-right: none;
@@ -690,7 +691,13 @@ section {
 }
 .recent-post-title {
   color: #333;
-  height: 70px;
+  margin: 1em 0 0.5em;
+}
+.recent-post-date {
+  font-size: 0.8em;
+  font-style: italic;
+  color: #c0c0c0;
+  margin-bottom: 0.5em;
 }
 .recent-post-excerpt {
   height: 140px;

@@ -49,6 +49,7 @@ layout: default
       <div class="block-3 recent-post">
         <a href="{{post.url}}">
           <h3 class="recent-post-title">{{post.title}}</h3>
+          <div class="recent-post-date">{{ post.date | date: '%B %d, %Y' }}</div>
           <div class="recent-post-excerpt">{{post.content | truncatewords: 20 | strip_html}}</div>
         </a>
       </div>
