@@ -14,18 +14,19 @@ layout: default
 
   <div id="volume-maps">
     {% for map in site.data[page.data] %}
-    <article class="volume-map" style="background-image:url({{map.img}});">
-      <div class="volume-map-info">
-        <h3 class="volume-map-title">{{map.title}}</h3><br>
-        <p class="volume-map-author">{{map.authors}}
-        {% if map.authors_url %}
-          <a href="{{map.authors_url}}" target="_blank" class="volume-map-author-link"><i class="fa fa-link"></i></a>
-        {% endif %}
-        </p>
+    <article class="volume-map">
+      <div class="volume-map-image" style="background-image:url({{map.img}});">
+        <h3 class="volume-map-title">{{map.title}}</h3>
       </div>
       {% if map.map_url %}
         <a href="{{map.map_url}}" target="_blank" class="volume-map-link"><i class="fa fa-external-link"></i></a>
       {% endif %}
+
+      <p class="volume-map-author">{{map.authors}}
+      {% if map.authors_url %}
+        <a href="{{map.authors_url}}" target="_blank" class="volume-map-author-link"><i class="fa fa-link"></i></a>
+      {% endif %}
+      </p>
     </article>
     {% endfor %}
   </div>

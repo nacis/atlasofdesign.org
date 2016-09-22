@@ -2,14 +2,13 @@
 layout: page
 ---
 
-<ul class='blog-list'>
+<div class="blog-list">
   {% for post in site.posts %}
-  <li>
+  <a class="blog-list-item" href="{{post.url}}">
     <i class='blog-icon fa fa-align-left'></i>
-    <a href='{{post.url}}'>{{post.title}}
-      <span class='blog-post-date'>{{post.date | date: '%B %d, %Y'}}</span><br>
-      <p class='blog-post-excerpt'>{{post.content | strip_html | truncatewords:40}}</p>
-    </a>
-  </li>
+    <h3 class="blog-post-title">{{post.title}}</h3>
+    <span class='blog-post-date'>{{post.date | date: '%B %d, %Y'}}</span>
+    <p class='blog-post-excerpt'>{{post.content | strip_html | truncatewords:40}}</p>
+  </a>
   {% endfor %}
-</ul>
+</div>
