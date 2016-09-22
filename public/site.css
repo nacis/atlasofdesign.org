@@ -822,6 +822,7 @@ section {
   text-align: right;
   background-color:#fff;
   color:#999;
+  margin: 0;
   font-size:.7em;
   margin: 3px;
   text-transform:uppercase;
@@ -909,19 +910,11 @@ img.nacis {
   opacity: 0.7;
 }
 
-#notification {
+.notification {
   display: block;
   width:100%;
-  background-color:#f1776f;
-  text-align:center;
-}
-#notification p {
-  padding: 1em 0;
-  color: #fff;
-  display: inline-block;
-  margin: 0;
-  max-width: 900px;
-  font-weight: 900;
+  background-color:#fff199;
+  padding: 1em;
 }
 
 @media (min-width: 900px) {
