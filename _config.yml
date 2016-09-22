@@ -2,3 +2,4 @@ url: http://atlasofdesign.org
 name: The Atlas of Design
 description: "A book of maps. Good ones, too."
 permalink: /:year/:month/:day/:title/
+highlighter: rouge
