@@ -1,5 +1,5 @@
 ---
-title: "Sales temporarily on hold w/ new fulfillment partner!"
+title: "Sales temporarily on hold w/ new fulfillment partner"
 layout: post
 ---
 

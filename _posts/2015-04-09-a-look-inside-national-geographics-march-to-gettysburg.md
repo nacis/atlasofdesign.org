@@ -1,5 +1,5 @@
 ---
-title: 'A Look Inside &#8211; National Geographic&#8217;s March to Gettysburg'
+title: "A Look Inside: National Geographic's March to Gettysburg"
 layout: post
 ---
 

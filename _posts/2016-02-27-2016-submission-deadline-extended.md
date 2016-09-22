@@ -1,5 +1,5 @@
 ---
-title: 2016 Submission deadline extended!
+title: "2016 Submission deadline extended!"
 layout: post
 ---
 

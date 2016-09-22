@@ -1,5 +1,5 @@
 ---
-title: 'A Look Inside &#8211; Barry Richards&#8217; Find A Room'
+title: "A Look Inside Barry Richard's Find A Room"
 layout: post
 ---
 

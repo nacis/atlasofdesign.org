@@ -1,5 +1,5 @@
 ---
-title: 'A Look Inside — Jake Coolidge&#8217;s Columbia River Watershed'
+title: "A Look Inside — Jake Coolidge's Columbia River Watershed"
 layout: post
 ---
 

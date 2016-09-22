@@ -1,5 +1,5 @@
 ---
-title: 2016 Call for Submissions!
+title: "2016 Call for Submissions!"
 layout: post
 ---
 
