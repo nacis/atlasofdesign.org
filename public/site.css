@@ -219,6 +219,9 @@ MAIN NAVIGATION
   }
 }
 
+.home-alert {
+  padding: 1em;
+}
 
 /*
   Buttons
@@ -915,6 +918,14 @@ img.nacis {
   width:100%;
   background-color:#fff199;
   padding: 1em;
+}
+.notification a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid black;
+}
+.notification.center {
+  text-align: center;
 }
 
 @media (min-width: 900px) {
