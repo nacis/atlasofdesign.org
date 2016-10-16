@@ -927,6 +927,9 @@ img.nacis {
 .notification.center {
   text-align: center;
 }
+.notification.blue {
+  background-color: #fae0ff;
+}
 
 @media (min-width: 900px) {
   .container{
