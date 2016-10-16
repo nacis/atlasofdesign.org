@@ -3,7 +3,9 @@ title: "Pre-order Volume 3!"
 layout: post
 ---
 
-The Atlas of Design Volume 3 is now available for pre-order! Find yourself holding this 98 page collection featuring 32 beautiful maps designed by cartographers all around the world. Each map comes with a description written by the author.
+The Atlas of Design Volume 3 is now available for [pre-order](http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-3)! Find yourself holding this 98 page collection featuring 32 beautiful maps designed by cartographers all around the world. Each map comes with a description written by the author.
+
+<a href="http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-3" target="_blank" class="button button-blue">Pre-order volume 3</a>
 
 The book is 12in x 9in (same dimensions as volume 2) with a black matte hard-cover printed on 80 lb Sterling Ultra paper.
 
