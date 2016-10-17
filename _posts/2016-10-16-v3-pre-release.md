@@ -9,6 +9,8 @@ The Atlas of Design Volume 3 is now available for [pre-order](http://atlasofdesi
 
 The book is 12in x 9in (same dimensions as volume 2) with a black matte hard-cover printed on 80 lb Sterling Ultra paper.
 
+**All NACIS members recieve a 25% discount!** Log into nacis.org and head to the member details page for the discount code to enter when checking out.
+
 Congratulations to the authors of the 32 maps in the book!
 
 Title | Author(s)
