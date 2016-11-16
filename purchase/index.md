@@ -8,7 +8,7 @@ header_caption: "The Millford Track (Roger Smith)"
 
 ## Volume 3
 
-Volume 3 is now available for pre-order! Learn more about the book and contributors here. Copies may be ordered for <strong>$35 each</strong>, plus shipping and handling. NACIS members receive 25% off the cover price. Locate the discount code provided on the member details page when logged into nacis.org.
+Volume 3 is now available! Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/). Copies may be ordered for <strong>$35 each</strong>, plus shipping and handling. NACIS members receive 25% off the cover price. Locate the discount code provided on the member details page when logged into nacis.org.
 
 Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -20,4 +20,10 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
-<a class="button" href="http://atlasofdesign.org/two">Preview Volume II</a>
+<a class="button" href="http://atlasofdesign.org/two">Preview Volume 2</a>
+
+## Volume 1
+
+Volume 1 is no longer available for purchase. Our sincerest apologies!
+
+<a class="button" href="http://atlasofdesign.org/one">View Volume 1</a>
