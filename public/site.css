@@ -257,6 +257,10 @@ MAIN NAVIGATION
   background: #da8c83;
   color: white;
 }
+.button-darkred {
+  background: #98625b;
+  color: white;
+}
 .button-flipped {
   background: white;
   border: 1px solid #d2d2d2;
@@ -624,22 +628,18 @@ section {
 }
 
 #sub-header {
-  background: white;
-  padding-bottom: 4em;
-}
-.sub-header-content {
-  padding: 1em;
+  background: #222;
+  padding: 3.5em 0 6em;
   font-size: 1.2em;
+  color: #f6f6f6;
+  margin-bottom: -79px;
 }
-.sub-header-content.dark {
-  background: black;
-  color: white;
-}
-
 
 #description {
   font-size: 1.7em;
   font-weight: 100;
+  background: #f6f6f6;
+  padding: 1px 0;
 }
 #description .container {
   padding: 0 1em 1em;
@@ -756,20 +756,29 @@ section {
 */
 #order-the-atlas {
   text-align: center;
+  background: #f6f6f6;
+  display: block;
+  margin-top: 5em;
+  padding: 1em 0;
 }
 #order-the-atlas .order-box {
   float: none;
   display: inline-block;
+  margin-top: -75px;
 }
 .order-box {
   text-align: left;
   padding: 1em;
   margin: 5px;
-  border-top: 5px solid #da8c83;
-  background: #f0d1cd;
+  border-top: 5px solid #98625b;
+  background: #da8c83;
   height: 230px;
   vertical-align: top;
   position: relative;
+  color: white;
+}
+.order-box p {
+  color: white;
 }
 .order-box.highlight {
   border: 5px solid #ffed7f;
@@ -779,8 +788,12 @@ section {
   margin: 0;
 }
 .order-box.coming-soon {
-  border-top: 5px solid #e5e5e5;
-  background: #f6f6f6;
+  border-top: 5px solid #c0c0c0;
+  background: #e5e5e5;
+  color: #555;
+}
+.order-box.coming-soon p {
+  color: #555;
 }
 .price,
 .order-button {
