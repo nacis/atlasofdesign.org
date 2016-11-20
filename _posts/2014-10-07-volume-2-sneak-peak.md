@@ -1,5 +1,5 @@
 ---
-title: 'Volume 2 &#8211; Sneak Peak'
+title: 'Volume 2 and Sneak Peak'
 layout: post
 ---
 

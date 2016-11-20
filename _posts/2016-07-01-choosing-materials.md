@@ -1,5 +1,5 @@
 ---
-title: Materials & The American Printing Co.
+title: "Materials & The American Printing Co."
 layout: post
 ---
 

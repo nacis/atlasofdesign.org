@@ -219,6 +219,9 @@ MAIN NAVIGATION
   }
 }
 
+.home-alert {
+  padding: 1em;
+}
 
 /*
   Buttons
@@ -268,7 +271,15 @@ MAIN NAVIGATION
 .button-top {
   margin-top: 1em;
 }
-
+.button-disabled {
+  border: none;
+  background: transparent;
+  cursor: none;
+  pointer-events: none;
+}
+.button-disabled:hover {
+  opacity: 1;
+}
 
 
 /*
@@ -754,8 +765,8 @@ section {
   text-align: left;
   padding: 1em;
   margin: 5px;
-  border: 5px solid #e8bab4;
-  background: #f7e8e6;
+  border-top: 5px solid #da8c83;
+  background: #f0d1cd;
   height: 230px;
   vertical-align: top;
   position: relative;
@@ -766,6 +777,10 @@ section {
 }
 .order-box h3 {
   margin: 0;
+}
+.order-box.coming-soon {
+  border-top: 5px solid #e5e5e5;
+  background: #f6f6f6;
 }
 .price,
 .order-button {
@@ -871,6 +886,7 @@ section {
   text-align: right;
   background-color:#fff;
   color:#999;
+  margin: 0;
   font-size:.7em;
   margin: 3px;
   text-transform:uppercase;
@@ -958,19 +974,22 @@ img.nacis {
   opacity: 0.7;
 }
 
-#notification {
+.notification {
   display: block;
   width:100%;
-  background-color:#f1776f;
-  text-align:center;
+  background-color:#fff199;
+  padding: 1em;
 }
-#notification p {
-  padding: 1em 0;
-  color: #fff;
-  display: inline-block;
-  margin: 0;
-  max-width: 900px;
-  font-weight: 900;
+.notification a {
+  text-decoration: none;
+  color: black;
+  border-bottom: 1px solid black;
+}
+.notification.center {
+  text-align: center;
+}
+.notification.blue {
+  background-color: #fae0ff;
 }
 
 @media (min-width: 900px) {
