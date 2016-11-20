@@ -257,6 +257,11 @@ MAIN NAVIGATION
   background: #da8c83;
   color: white;
 }
+.button-flipped {
+  background: white;
+  border: 1px solid #d2d2d2;
+  color: #999;
+}
 .button-right {
   float: right;
 }
@@ -265,6 +270,15 @@ MAIN NAVIGATION
 }
 .button-top {
   margin-top: 1em;
+}
+.button-disabled {
+  border: none;
+  background: transparent;
+  cursor: none;
+  pointer-events: none;
+}
+.button-disabled:hover {
+  opacity: 1;
 }
 
 
@@ -737,7 +751,54 @@ section {
   margin-left: 2em;
 }
 
-
+/*
+ Order the atlas
+*/
+#order-the-atlas {
+  text-align: center;
+}
+#order-the-atlas .order-box {
+  float: none;
+  display: inline-block;
+}
+.order-box {
+  text-align: left;
+  padding: 1em;
+  margin: 5px;
+  border-top: 5px solid #da8c83;
+  background: #f0d1cd;
+  height: 230px;
+  vertical-align: top;
+  position: relative;
+}
+.order-box.highlight {
+  border: 5px solid #ffed7f;
+  background: #fffbe5;
+}
+.order-box h3 {
+  margin: 0;
+}
+.order-box.coming-soon {
+  border-top: 5px solid #e5e5e5;
+  background: #f6f6f6;
+}
+.price,
+.order-button {
+  position: absolute;
+}
+.price {
+  left: 0.5em;
+  bottom: 0.35em;
+  margin: 0;
+  font-size: 2em;
+}
+.price span {
+  font-weight: 900;
+}
+.order-button {
+  bottom: 1em;
+  right: 1em;
+}
 
 #hero {
   display:block;
