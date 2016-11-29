@@ -805,12 +805,11 @@ section {
   background: #f6f6f6;
   display: block;
   margin-top: 5em;
-  padding: 1em 0;
+  padding: 1em;
 }
 #order-the-atlas .order-box {
   float: none;
   display: inline-block;
-  margin-top: -75px;
 }
 .order-box {
   text-align: left;
@@ -818,10 +817,19 @@ section {
   margin: 5px;
   border-top: 5px solid #98625b;
   background: #da8c83;
-  height: 230px;
   vertical-align: top;
   position: relative;
   color: white;
+  padding-bottom: 40px;
+  width: 100%;
+}
+@media (min-width: 900px) {
+  .order-box {
+    height: 290px;
+  }
+  #order-the-atlas .order-box {
+    margin-top: -75px;
+  }
 }
 .order-box p {
   color: white;
@@ -844,6 +852,7 @@ section {
 .price,
 .order-button {
   position: absolute;
+  font-family: monospace;
 }
 .price {
   left: 0.5em;
@@ -1069,4 +1078,38 @@ img.nacis {
     width: 25%;
     padding: 2em 0;
   }
+}
+
+/* holiday special banner */
+.holiday-special {
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover;
+  background-position: center center;
+  background-image: url(/img/2016-holiday-special-bg.jpg);
+}
+.holiday-special.banner {
+  padding: 1em;
+  color: white;
+  box-shadow: 0 0 3px 1px rgba(0,0,0,0.7);
+  position: relative;
+  z-index: 10;
+}
+.holiday-special.banner .holiday-title {
+  font-size: 2em;
+  font-weight: 900;
+  margin: 0 0 0.5em;
+}
+.holiday-special.banner p {
+  margin: 0;
+  color: white;
+}
+.holiday-special.banner span {
+  font-family: monospace;
+  color: #333;
+  font-weight: 900;
+}
+.holiday-special small {
+  font-size: 0.7em;
 }
