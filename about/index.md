@@ -23,11 +23,9 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 ## Volume 2
 
-<div class="notification">All sales are currently on hold as we change fulfillment partners! Volume 2 and 3 will become available for purchase in late October, 2016.</div>
-
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
-<a class="button" href="http://atlasofdesign.org/two">Preview Volume 2</a>
+<a class="button button-blue" href="http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-2" target="_blank">Order Volume 2</a>
 
 ## Volume 1
 
