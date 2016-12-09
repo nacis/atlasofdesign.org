@@ -7,7 +7,7 @@ layout: post
 
 &nbsp;
 
-<img class="aligncenter size-full wp-image-1438" src="http://atlasofdesign.org/wp-content/uploads/2015/01/findaroom_01.png" alt="findaroom_01" width="1000" height="517" />
+<img class="aligncenter size-full wp-image-1438" src="/img/wp/2015/01/findaroom_01.png" alt="findaroom_01" width="1000" height="517" />
 
 <strong>Daniel</strong>: Strong statement of style. This is an institutional product that has a strong personality and is quite unique. It's a great piece of branding for the University of South Wales, and one that stands out against other campus maps.
 
@@ -39,7 +39,7 @@ Interestingly, the university website doesn't look like the map in regards to st
 
 <strong>Daniel</strong>: It's particularly helpful because of all the hills on this campus that make the "entrance" to the building on irregular floors. You could be entering on the basement level or the 3rd floor, depending on which side of the building you're approaching.
 
-<img class="aligncenter size-full wp-image-1439" src="http://atlasofdesign.org/wp-content/uploads/2015/01/findaroom_02.png" alt="findaroom_02" width="1000" height="358" />
+<img class="aligncenter size-full wp-image-1439" src="/img/wp/2015/01/findaroom_02.png" alt="findaroom_02" width="1000" height="358" />
 
 <hr />
 
@@ -63,7 +63,7 @@ Interestingly, the university website doesn't look like the map in regards to st
 
 <hr />
 
-<img class="aligncenter size-full wp-image-1440" src="http://atlasofdesign.org/wp-content/uploads/2015/01/findaroom_03.png" alt="findaroom_03" width="1000" height="474" />
+<img class="aligncenter size-full wp-image-1440" src="/img/wp/2015/01/findaroom_03.png" alt="findaroom_03" width="1000" height="474" />
 
 <strong>Marty</strong>: Indoor cartography seems really… underrated. Nobody really talks about it, and it seems really ripe for exploration. I wonder why…
 

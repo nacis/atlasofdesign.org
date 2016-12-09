@@ -11,7 +11,7 @@ For the third in our series of short interviews with <em>Atlas of Design</em> c
 
 <strong>Cameron</strong>: I'd tell him that I think his London Underground diagram is one of the foremost and influential pieces of informational graphic design ever, and is still in use today, adopted the world over by almost every transit agency and budding map designer. He'd just say "BRAAAIINNNSSS!" and then things would get a little awkward.
 
-[caption id="attachment_284" align="alignleft" width="232"]<a href="http://atlasofdesign.org/wp-content/uploads/2012/10/BoothSpread.png"><img class="size-medium wp-image-284" title="BoothSpread" src="http://atlasofdesign.org/wp-content/uploads/2012/10/BoothSpread-232x300.png" alt="" width="232" height="300" /></a> Click to preview pages 10-13.[/caption]
+[caption id="attachment_284" align="alignleft" width="232"]<a href="/img/wp/2012/10/BoothSpread.png"><img class="size-medium wp-image-284" title="BoothSpread" src="/img/wp/2012/10/BoothSpread-232x300.png" alt="" width="232" height="300" /></a> Click to preview pages 10-13.[/caption]
 
 <strong>AoD</strong>: Are transit directions on our phones making us better or worse as navigators?
 

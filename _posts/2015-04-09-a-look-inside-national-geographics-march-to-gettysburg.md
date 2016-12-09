@@ -17,7 +17,7 @@ layout: post
 
 <strong>M</strong>: I agree. I see the same tendency for people to employ the cartographer as a subject matter expert. The fact that this map is a collaboration between cartographers and historians is really great. This map lists more authors than any other map in either volumes of the Atlas of Design. They managed to bring so many people to the table and yet produce a single, coherent piece of work.
 
-<a href="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-3.png"><img class="alignnone wp-image-1469 size-large" src="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-3-1024x464.png" alt="lookinside-natgeo-3" width="1024" height="464" /></a>
+<a href="/img/wp/2015/04/lookinside-natgeo-3.png"><img class="alignnone wp-image-1469 size-large" src="/img/wp/2015/04/lookinside-natgeo-3-1024x464.png" alt="lookinside-natgeo-3" width="1024" height="464" /></a>
 
 <hr />
 
@@ -29,7 +29,7 @@ layout: post
 
 <strong>M</strong>: The notes about the weather and environment continue to build the scene for the map.
 
-<a href="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-1.png"><img class="alignnone wp-image-1464 size-large" src="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-1-1024x520.png" alt="lookinside-natgeo-1" width="1024" height="520" /></a>
+<a href="/img/wp/2015/04/lookinside-natgeo-1.png"><img class="alignnone wp-image-1464 size-large" src="/img/wp/2015/04/lookinside-natgeo-1-1024x520.png" alt="lookinside-natgeo-1" width="1024" height="520" /></a>
 
 <hr />
 
@@ -55,7 +55,7 @@ layout: post
 
 <strong>M</strong>: The relief itself looks really nice. It perfectly integrates with all of the color on top. It allows you to approach the vast amount of information with however much detail you'd like to learn.
 
-<a href="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-2.jpg"><img class="alignnone wp-image-1468 size-full" src="http://atlasofdesign.org/wp-content/uploads/2015/04/lookinside-natgeo-2.jpg" alt="lookinside-natgeo-2" width="1200" height="698" /></a>
+<a href="/img/wp/2015/04/lookinside-natgeo-2.jpg"><img class="alignnone wp-image-1468 size-full" src="/img/wp/2015/04/lookinside-natgeo-2.jpg" alt="lookinside-natgeo-2" width="1200" height="698" /></a>
 
 <hr />
 

@@ -5,7 +5,7 @@ layout: post
 
 The layout is done, we've got copyright releases from everyone, and we're just a few small adjustments away from delivering files to the press. Now, at long last, we can begin to share with you the book's contents!<!--more-->
 
-[caption id="attachment_67" align="alignnone" width="650"]<a href="http://atlasofdesign.org/wp-content/uploads/2012/08/Contents-low-res.pdf"><img class="size-full wp-image-67 " title="Contents Img" src="http://atlasofdesign.org/wp-content/uploads/2012/08/Contents-Img.png" alt="" width="650" height="841" /></a> Click to view PDF of the book's Table of Contents[/caption]
+[caption id="attachment_67" align="alignnone" width="650"]<a href="/img/wp/2012/08/Contents-low-res.pdf"><img class="size-full wp-image-67 " title="Contents Img" src="/img/wp/2012/08/Contents-Img.png" alt="" width="650" height="841" /></a> Click to view PDF of the book's Table of Contents[/caption]
 
 The selections for the inaugural edition of the <em>Atlas of Design</em> are:
 

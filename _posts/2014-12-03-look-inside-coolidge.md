@@ -5,7 +5,7 @@ layout: post
 
 <em>Join us as the editorial team takes a deeper look at some of the maps featured in the </em>Atlas<em>. In these informal conversations, we offer personal opinions about what makes each map interesting. </em><em>We do not speak for the author, nor are we offering an Official </em>Atlas of Design<em> Opinion. Instead, we just want to take a moment to engage with these intriguing works and offer you all a chance to think more deeply about what's going on in each one, which is one of the goals of our project. The following is a conversation about a Jake Coolidge's </em><a href="http://www.jakecoolidgecartography.com/columbia-river-watershed.html">The Columbia River Watershed</a><em>—a hand-drawn map featured in the new, second volume of the </em>Atlas of Design<em>.</em>
 
-<img class="aligncenter size-full wp-image-1404" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge1.jpg" alt="maptalk-coolidge1" width="672" height="300" />
+<img class="aligncenter size-full wp-image-1404" src="/img/wp/2014/12/maptalk-coolidge1.jpg" alt="maptalk-coolidge1" width="672" height="300" />
 
 <strong>Marty</strong>: I was able to listen to Jake's talk at NACIS about the creative process behind the map. What was really striking is how curated it is; he talked at length at what sort of human vs. natural landscape features he wanted to include.
 
@@ -17,7 +17,7 @@ layout: post
 
 <strong>Sam</strong>: It definitely has a fanciful quality to it, making me want to explore the path from one point to another (shoutout to Middle Earth).
 
-<img class="aligncenter size-full wp-image-1405" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge2.jpg" alt="maptalk-coolidge2" width="672" height="300" />
+<img class="aligncenter size-full wp-image-1405" src="/img/wp/2014/12/maptalk-coolidge2.jpg" alt="maptalk-coolidge2" width="672" height="300" />
 
 <strong>Marty</strong>: The oblique view and northeast facing nature makes it hard to tell where all of the borders are, and the actual geographic extent of the map, until you look at the insets in the middle.
 
@@ -49,7 +49,7 @@ layout: post
 
 <strong>Sam</strong>: I suppose I agree, but there still feels like an intention to make these would-be-scribbles seem relatively life-like.
 
-<img class="aligncenter size-full wp-image-1406" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge3.jpg" alt="maptalk-coolidge3" width="672" height="300" />
+<img class="aligncenter size-full wp-image-1406" src="/img/wp/2014/12/maptalk-coolidge3.jpg" alt="maptalk-coolidge3" width="672" height="300" />
 
 <strong>Marty</strong>: There are a few rivers further back in the map that are rendered as hachures.
 
@@ -57,7 +57,7 @@ layout: post
 
 <strong>Sam</strong>: There are two types it seems— the hachures that represent the valleys of tributaries and the hachures that are representing canyons. Like the Snake River you'll see a gorge, but near Clearwater you'll see little tributaries.
 
-<img class="aligncenter size-full wp-image-1408" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge5.jpg" alt="maptalk-coolidge5" width="672" height="200" />
+<img class="aligncenter size-full wp-image-1408" src="/img/wp/2014/12/maptalk-coolidge5.jpg" alt="maptalk-coolidge5" width="672" height="200" />
 
 <strong>Daniel</strong>: The most negative thing I have to say about this map is that there are still some leftover erasures, it's not very easy to read in some lettering.
 
@@ -69,7 +69,7 @@ layout: post
 
 <strong>Daniel</strong>: There are some places, like in the title, that feel "blueprint" like—with the lettering that reminds me of the font you have to use as an engineer or architect in school—it seems to follow that common set of forms. This makes it seem more precise, but when you dive into the actual map it represents a more old-time survey look.
 
-<img class="aligncenter size-full wp-image-1407" src="http://atlasofdesign.org/wp-content/uploads/2014/12/maptalk-coolidge4.jpg" alt="maptalk-coolidge4" width="672" height="200" />
+<img class="aligncenter size-full wp-image-1407" src="/img/wp/2014/12/maptalk-coolidge4.jpg" alt="maptalk-coolidge4" width="672" height="200" />
 
 <strong>Sam</strong>: Daniel, what do you think about the waterlines?
 

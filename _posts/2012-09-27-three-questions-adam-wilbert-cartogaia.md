@@ -13,7 +13,7 @@ For the second in our series of short interviews with <em>Atlas of Design </em
 
 You read that right. Stop doing that. I would instruct the robots to bring in more tactile emotion mixed with a helping of heart. Then I would point and laugh and increase my fees.
 
-[caption id="attachment_250" align="alignleft" width="300"]<a href="http://atlasofdesign.org/wp-content/uploads/2012/09/WilbertPreview.png"><img class="size-medium wp-image-250 " title="WilbertPreview" src="http://atlasofdesign.org/wp-content/uploads/2012/09/WilbertPreview-300x128.png" alt="" width="300" height="128" /></a> Click to preview pages 52-54[/caption]
+[caption id="attachment_250" align="alignleft" width="300"]<a href="/img/wp/2012/09/WilbertPreview.png"><img class="size-medium wp-image-250 " title="WilbertPreview" src="/img/wp/2012/09/WilbertPreview-300x128.png" alt="" width="300" height="128" /></a> Click to preview pages 52-54[/caption]
 
 <strong>AoD</strong>: Why did you put this map on ice for a time?
 

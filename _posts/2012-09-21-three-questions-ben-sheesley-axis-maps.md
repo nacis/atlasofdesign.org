@@ -11,7 +11,7 @@ layout: post
 
 <strong>Ben Sheesley:</strong> Yeah, but we always try to use our powers for good, not evil. The name really just comes from the mathematical and geometrical use of that word, as in ‘the earth revolves on its axis.’ We’ve always been more interested in cool maps than world dominance.
 
-[caption id="attachment_173" align="alignleft" width="232"]<a href="http://atlasofdesign.org/wp-content/uploads/2012/09/AxisTotal.png"><img class="size-medium wp-image-173" title="AxisTotal" src="http://atlasofdesign.org/wp-content/uploads/2012/09/AxisTotal-232x300.png" alt="" width="232" height="300" /></a> Click to preview pages 4-7[/caption]
+[caption id="attachment_173" align="alignleft" width="232"]<a href="/img/wp/2012/09/AxisTotal.png"><img class="size-medium wp-image-173" title="AxisTotal" src="/img/wp/2012/09/AxisTotal-232x300.png" alt="" width="232" height="300" /></a> Click to preview pages 4-7[/caption]
 
 <strong>AoD:</strong> Myriad Pro — defend your typeface choice!
 
