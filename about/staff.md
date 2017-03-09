@@ -13,7 +13,7 @@ The Atlas of Design is a product of the <a href="http://nacis.org">North America
 
 <strong>Lauren Tierney</strong> is a cartographer and graphics editor at National Geographic Magazine. She enjoys telling stories with maps, and specializes in mapping wildlife, environment, and adventure topics. You can find her on Twitter at <a href="https://twitter.com/tierneyl">@tierneyl</a>, or at <a href="www.laurenctierney.com">laurenctierney.com</a>.
 
-<strong>Caroline Rose</strong> is a GIS Specialist and Cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Her Twitter handle is <a href="https://twitter.com/cmrrose">@cmrRose</a>.
+<strong>Caroline Rose</strong> is a GIS specialist and cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Her Twitter handle is <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
 
 
