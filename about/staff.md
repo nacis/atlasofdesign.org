@@ -9,12 +9,11 @@ header_caption: "Portland Finger Plans (Ryan Sullivan)"
 The Atlas of Design is a product of the <a href="http://nacis.org">North American Cartographic Information Society</a>, and is prepared by a small but enthusiastic staff of volunteers:
 
 #### Editors
-<strong>Alethea Steingisser</strong>
+<strong>Alethea Steingisser</strong> is a cartographer and production manager University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>
 
 <strong>Lauren Tierney</strong>
 
-<strong>Caroline Rose</strong> is a GIS Specialist and Cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the rocks and groundwater of the state. She enjoys working in sculptural media just as much as javascript.
-You can find her on Twitter at <a href="https://twitter.com/cmrrose">@cmrRose</a>.
+<strong>Caroline Rose</strong> is a GIS Specialist and Cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Her Twitter handle is <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
 <h4>Past Editors</h4>
 **Sam Matthews** is an engineer at Mapbox. He served as an Editor for volumes II and III of the <em>Atlas of Design</em>. Sam is a web developer and active proponent of open data. You can find him on Twitter at <a href="https://twitter.com/vancematthews">@vancematthews</a> or see him at <a href="http://mapsam.com">mapsam</a>.
