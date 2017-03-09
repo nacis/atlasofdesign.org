@@ -16,11 +16,11 @@ The Atlas of Design is a product of the <a href="http://nacis.org">North America
 <strong>Caroline Rose</strong> is a GIS Specialist and Cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Her Twitter handle is <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
 <h4>Past Editors</h4>
+<strong>Ginny Mason</strong> was the Assistant Editor for the third volume of the <em>Atlas of Design</em>. Ginny is a cartographer and graphics editor at National Geographic Magazine. She likes maps that help people make informed decisions. You can follow her on Twitter at <a href="https://twitter.com/masonginny" target="_blank">@masonginny</a>.
+
 **Sam Matthews** is an engineer at Mapbox. He served as an Editor for volumes II and III of the <em>Atlas of Design</em>. Sam is a web developer and active proponent of open data. You can find him on Twitter at <a href="https://twitter.com/vancematthews">@vancematthews</a> or see him at <a href="http://mapsam.com">mapsam</a>.
 
-<strong>Marty Elmer</strong>served as the Assistant Editor for  the <em>Atlas of Design, Volume II</em> and as an Editor for Volume III. He is a Minneapolis-based information designer, graphic artist, and mapping aficionado. His blog, <a href="http://www.maphugger.com">MapHugger</a>, is a cabinet of cartographic curiosities, celebrating the world's most artful, experimental, and unusual maps. You can find him on Twitter at <a href="https://twitter.com/maphugger">@maphugger</a>.
-
-<strong>Ginny Mason</strong> was the Assistant Editor for the third volume of the <em>Atlas of Design</em> and is a cartographer and graphics editor at National Geographic Magazine. She likes maps that help people make informed decisions. You can follow her on Twitter at <a href="https://twitter.com/masonginny" target="_blank">@masonginny</a>.
+<strong>Marty Elmer</strong> served as the Assistant Editor for  the <em>Atlas of Design, Volume II</em> and as an Editor for Volume III. He is a Minneapolis-based information designer, graphic artist, and mapping aficionado. His blog, <a href="http://www.maphugger.com">MapHugger</a>, is a cabinet of cartographic curiosities, celebrating the world's most artful, experimental, and unusual maps. You can find him on Twitter at <a href="https://twitter.com/maphugger">@maphugger</a>.
 
 <strong>Daniel Huffman</strong> served as Editor for the first two volumes of the <em>Atlas</em>. Working alongside founder Tim Wallace, he helped develop the template for the project, and is enormously proud of what their initial ideas have become. A high point of his life was seeing his name listed in a library catalogue. You can find him at <a href="http://somethingaboutmaps.com">somethingaboutmaps.com</a>, or on Twitter at <a class="user-mention" href="https://github.com/pinakographos">@pinakographos</a>.
 
