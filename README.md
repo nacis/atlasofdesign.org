@@ -6,9 +6,9 @@ The Atlas of Design is dedicated to showing off some of the world’s most beaut
 
 #### The Team
 
-* Sam Matthews, Editor
-* Marty Elmer, Editor
-* Ginny Mason, Assistant Editor
+* Alethea Steingisser, Editor
+* Lauren Tierney, Editor
+* Caroline Rose, Editor
 
 ## Installation
 
