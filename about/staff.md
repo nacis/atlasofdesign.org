@@ -18,7 +18,7 @@ The Atlas of Design is a product of the <a href="http://nacis.org">North America
 
 
 <h4>Past Editors</h4>
-<strong>Ginny Mason</strong> was the Assistant Editor for the third volume of the <em>Atlas of Design</em> and is a former cartographer and graphics editor at National Geographic Magazine.  She is now Senior Cartographer at S&P Global Platts. She likes maps that help people make informed decisions. You can follow her on Twitter at <a href="https://twitter.com/masonginny" target="_blank">@masonginny</a>.
+<strong>Ginny Mason</strong> was the Assistant Editor for the third volume of the <em>Atlas of Design</em> and is a former cartographer and graphics editor at National Geographic Magazine.  She is now Senior Cartographer at S&P Global Platts. She likes maps that help people make informed decisions. You can follow her on Twitter at <a href="https://twitter.com/masonginny" target="_blank">@masonginny</a>.<br/><br/>
 
 
 <strong>Sam Matthews</strong> is an engineer at Mapbox. He served as an Editor for volumes II and III of the <em>Atlas of Design</em>. Sam is a web developer and active proponent of open data. You can find him on Twitter at <a href="https://twitter.com/vancematthews">@vancematthews</a> or see him at <a href="http://mapsam.com">mapsam</a>.
