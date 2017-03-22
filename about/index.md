@@ -15,7 +15,7 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 3
 
-Volume 3 is now available! Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/). Copies may be ordered for <strong>$35 each</strong>, plus shipping and handling. NACIS members receive 25% off the cover price. Locate the discount code provided on the member details page when logged into nacis.org.
+Volume 3 has sold out! Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
 Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
