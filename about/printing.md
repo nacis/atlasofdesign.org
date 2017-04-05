@@ -1,5 +1,5 @@
 ---
-title: printing
+title: Printing
 layout: page
 permalink: /about/printing/
 header_img: /img/building_yes.jpg

@@ -19,13 +19,13 @@ Volume 3 has sold out! Learn more about the book and contributors [here](/2016/1
 
 Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
-<a class="button button-blue" href="http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-3" target="_blank">Order Volume 3</a>
+
 
 ## Volume 2
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
-<a class="button button-blue" href="http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-2" target="_blank">Order Volume 2</a>
+<a class="button" href="http://atlasofdesign.org/two">View Volume 2</a>
 
 ## Volume 1
 
