@@ -19,7 +19,7 @@ Volume 3 has sold out! Learn more about the book and contributors [here](/2016/1
 
 Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
-
+<a class="button" href="http://atlasofdesign.org/three">View Volume 3</a>
 
 ## Volume 2
 
