@@ -28,7 +28,7 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 <a class="button" href="http://atlasofdesign.org/two">View Volume 2</a>
 
 ## Volume 1
-
-Volume 1 is no longer available for purchase. Our sincerest apologies!
+Physical details: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
+Browse the maps from Volume 1 here:
 
 <a class="button" href="http://atlasofdesign.org/one">View Volume 1</a>
