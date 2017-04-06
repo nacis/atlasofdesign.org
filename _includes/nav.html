@@ -7,7 +7,7 @@
       {% for weight in (0..10) %}{% for p in site.pages %}{% if p.weight == weight %}
       <li class="menu-item {% if p.url == page.url %} current_page_item{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
       {% endif %}{% endfor %}{% endfor %}
-      <li class="menu-item"><a href="http://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-3" target="_blank">Purchase</a></li>
+        <li class="menu-item"><a href="/order">Order</a></li>
       <li class="menu-item menu-secondary"><a target="_blank" href="http://nacis.org">nacis.org</a></li>
     </ul>
   </div>

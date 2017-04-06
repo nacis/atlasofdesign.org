@@ -798,47 +798,81 @@ section {
 }
 
 /*
- Order the atlas
+ Order the atlas or view the atlas: three boxes on home page
 */
-#order-the-atlas {
+#order-the-atlas, #view-the-atlas {
   text-align: center;
   background: #f6f6f6;
   display: block;
   margin-top: 5em;
   padding: 1em;
 }
-#order-the-atlas .order-box {
+#order-the-atlas .order-box, #view-the-atlas .view-box {
   float: none;
   display: inline-block;
 }
-.order-box {
+
+.order-box, .view-box {
   text-align: left;
-  padding: 1em;
+  
   margin: 5px;
-  border-top: 5px solid #98625b;
-  background: #da8c83;
   vertical-align: top;
   position: relative;
-  color: white;
-  padding-bottom: 40px;
+  
+  
   width: 100%;
 }
+.order-box{
+  border-top: 5px solid #98625b;
+  background: #da8c83;
+  padding: 1em;
+    color: white;
+    padding-bottom: 40px;
+}
+.view-box{
+  border-top: 5px solid #555;
+  background: #c0c0c0;
+  color: black;
+  padding-bottom: 10px;
+
+}
+.view-box:hover{
+    background: #999;
+}
+.view-pic{
+    height:100%;
+    min-height: 100px;
+    background-size: cover;
+    background-position: center center;
+    max-height: 90%;
+}
+.view-box h3{
+    padding-left: 1em;
+}
+@media (max-width: 900px){
+    .view-box{
+        padding-bottom: 5px;
+    }    
+
+}
+
 @media (min-width: 900px) {
-  .order-box {
+  .order-box, .view-box {
     height: 290px;
   }
+    
   #order-the-atlas .order-box {
     margin-top: -75px;
   }
 }
-.order-box p {
+.order-box p, .view-box p {
   color: white;
 }
-.order-box.highlight {
+.order-box.highlight, .view-box.highlight {
   border: 5px solid #ffed7f;
   background: #fffbe5;
 }
-.order-box h3 {
+.order-box h3, .view-box h3 {
   margin: 0;
 }
 .order-box.coming-soon {
@@ -984,6 +1018,8 @@ section {
   .volume {
     width:98%;
   }
+  
+    
 }
 
 /*
