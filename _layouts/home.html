@@ -36,32 +36,32 @@ layout: default
   </div>
 </section>
 
-<section id="order-the-atlas">
+<section id="view-the-atlas">
   <div class="row">
-    <div class="block-3 order-box cf coming-soon">
+    <a href="/three"><div class="block-3 cf view-box" >
       <h3>Volume 3</h3>
-      <p>Volume 3 sold out on December 9th, 2016. <p><small>Fill out our <a href="/reprint">interest form</a> if you'd like to see a reprint!</small></p>
-      <p class="price">$<span>35</span></p>
-      <span class="order-button button button-flipped">Sold out</span>
-    </div>
+      <div class="view-pic" style="background-image:url(/img/vol3_headerwebsite_viewbox.jpg)"></div>
+      <!--<img class="" src="/img/vol3_headerwebsite_viewbox.jpg" />-->
+      
+        </div></a>
 
-    <div class="block-3 order-box cf coming-soon">
+    <a href="/two"><div class="block-3 cf view-box">
       <h3>Volume 2</h3>
-      <p>Volume 2 is no longer in print.</p>
-      <p><small>Fill out our <a href="/reprint">interest form</a> if you'd like to see a reprint!</small></p>
-      <p class="price">$<span>35</span></p>
-      <span class="order-button button button-flipped">Sold out</span>
-    </div>
-    <div class="block-3 order-box cf coming-soon">
+      <div class="view-pic" style="background-image:url(/img/vol2_headerwebsite_viewbox.jpg)"></div>
+    <!-- <img src="/img/vol2_headerwebsite_viewbox.jpg" />-->
+      
+      
+        </div></a>
+    <a href="/one"><div class="block-3 cf view-box">
       <h3>Volume 1</h3>
-      <p>Volume 1 is no longer in print.</p>
-      <p><small>Fill out our <a href="/reprint">interest form</a> if you'd like to see a reprint!</small></p>
-      <p class="price">$<span>35</span></p>
-      <span class="order-button button button-flipped">Sold out</span>
-    </div>
+      <div class="view-pic" style="background-image:url(/img/vol1_headerwebsite_viewbox.jpg)"></div>
+      <!--<img src="/img/vol1_headerwebsite_viewbox.jpg" />-->
+      
+      
+    </div></a>
   </div>
 
-  <p><small><em>All NACIS members can recieve a 25% discount on their orders if you use the code provided on nacis.org when you are logged in.</em></small></p>
+  
 </section>
 
 <section id="description">
@@ -78,7 +78,7 @@ layout: default
 
 <section id="recent">
   <div class="row">
-    {% for post in site.posts | limit: 4 %}
+    {% for post in site.posts  limit: 4 %}
       <div class="block-3 recent-post">
         <a href="{{post.url}}">
           <h3 class="recent-post-title">{{post.title}}</h3>
