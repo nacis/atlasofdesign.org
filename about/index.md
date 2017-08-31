@@ -11,7 +11,7 @@ The <em>Atlas of Design</em> is dedicated to showing off some of the world's mos
 
 The <em>Atlas</em> aims to inspire readers both within the field of cartography and without toward new understandings of design, and of the power that a well-crafted map can have. In an age when more and more mapping tasks are being turned over to computers, the <em>Atlas</em> provides one more answer to the question: What do cartographers do?
 
-The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/staff/">group of volunteers</a>.
+The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
 ## Volume 3
 
