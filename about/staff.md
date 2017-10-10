@@ -9,7 +9,7 @@ header_caption: "Portland Finger Plans (Ryan Sullivan)"
 The Atlas of Design is a product of the <a href="http://nacis.org">North American Cartographic Information Society</a>, and is prepared by a small but enthusiastic staff of volunteers:
 
 #### Editors
-<strong>Alethea Steingisser</strong> is a cartographer and production manager at the University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>
+<strong>Alethea Steingisser</strong> is a cartographer and production manager at the University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>.
 
 <strong>Lauren Tierney</strong> is a cartographer and graphics editor at National Geographic Magazine. She enjoys telling stories with maps, and specializes in mapping wildlife, environment, and adventure topics. You can find her on Twitter at <a href="https://twitter.com/tierneyl">@tierneyl</a>, or at <a href="http://www.laurenctierney.com">laurenctierney.com</a>.
 

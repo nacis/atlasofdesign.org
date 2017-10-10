@@ -10,7 +10,7 @@ If you are interested in featuring the Atlas in your blog or journal, please con
 
 ## Imagery
 
-All imagery must be credited to Caroline Rose. We have images for [Volume 1](/press/photos-v1.zip), [Volume 2](/press/photos-v2.zip), and [Volume 3](/press/photos-v3.zip).
+All imagery must be credited to Caroline Rose, our photographer for volumes 1, 2, and 3. We have images for [Volume 1](/press/photos-v1.zip), [Volume 2](/press/photos-v2.zip), and [Volume 3](/press/photos-v3.zip).
 
 ## Logos
 
