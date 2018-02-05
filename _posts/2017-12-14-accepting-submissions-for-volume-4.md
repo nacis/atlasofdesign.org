@@ -3,7 +3,7 @@ title: "Accepting submissions for Volume 4"
 layout: post
 ---
 
-We are currently accepting map submissions for Volume 4, the 2018 Edition of the <em>Atlas of Design</em>! Submissions will be accepted until February 4, 2018. To review the submission guidelines and to enter your work, please visit the submission page at <a href='atlasofdesign.org/submit'>atlasofdesign.org/submit</a>. 
+We are currently accepting map submissions for Volume 4, the 2018 Edition of the <em>Atlas of Design</em>! Submissions will be accepted until February 4, 2018. To review the submission guidelines and to enter your work, please visit the submission page at <a href='http://atlasofdesign.org/submit'>atlasofdesign.org/submit</a>. 
 
 We extended the submission period from previous years to encourage you to dust off an almost-complete project and finish it up for submission.
 

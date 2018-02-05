@@ -38,6 +38,10 @@ New post content.
 
 All posts are written in [Markdown](https://daringfireball.net/projects/markdown/). You can also add HTML!
 
+#### Adding a link
+
+If you add a link, be sure that it starts with 'http://' ...otherwise your browser will just try to append your link to the URL you are already at. 
+
 #### Adding an image
 
 If you are adding a new image to a post or to an existing page on the site, you need to add it to the `img/` directory here or link to it from an external site. Adding a new image looks like this in markdown:
