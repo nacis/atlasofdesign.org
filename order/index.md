@@ -4,10 +4,10 @@ layout: page
 header_img: /img/vol3_2226_clip.jpg
 ---
 
-Pre-orders for the _Atlas of Design, Volume 4_ open on June 20, 2018! 
+Pre-orders for the _Atlas of Design, Volume 4_ are now open! 
 <br>Pre-orders will close on August 15, 2018.
 <br><br>
-The _Atlas of Design, Volume 4_ is available for $35 plus shipping and handling. 
+<b>The _Atlas of Design, Volume 4_ is available for $35 plus shipping and handling. </b>
 <br>
 
 *All NACIS members recieve a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
