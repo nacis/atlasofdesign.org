@@ -27,4 +27,4 @@ PRE-ORDER V4 FOR PICKUP AT NACIS <i class="fa fa-shopping-cart"></i>
 
 <br><br>
 
-Volumes 1, 2, and 3 of the _Atlas of Design_ are currently sold out. Please fill out our [interest form](/reprint) if you'd like to see a reprint! 
+Volumes 1, 2, and 3 of the _Atlas of Design_ are currently sold out. We are now ready to offer reprints of Volumes 1, 2, and 3 if enough people are interested. Please visit our [reprints page](/reprints)! 
