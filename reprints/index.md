@@ -1,5 +1,5 @@
 ---
-title: Reprint
+title: Reprints
 layout: page
 header_img: /img/vol3_2227_clip.jpg
 ---
