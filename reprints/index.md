@@ -22,3 +22,5 @@ ORDER VOLUME 2 REPRINT <i class="fa fa-book"></i>
 <a href="https://shop.trycelery.com/page/5b3be3d28945a01400e23787" target="_blank" class="button button-blue">
 ORDER VOLUME 3 REPRINT <i class="fa fa-book"></i>
 </a>
+
+<br><em>Please note that we cannot offer a combined bundle of all 3 reprint volumes. </em>Depending on demand, it's possible that we might only reprint some of the volumes, or reprint them at different times. So we must offer each as a separate transaction. Sorry for the inconvenience!
