@@ -13,9 +13,16 @@ The <em>Atlas</em> aims to inspire readers both within the field of cartograph
 
 The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
+## Volume 4
+
+Volume 4 is available for pre-order! Please visit our [orders page](/order).
+
+
 ## Volume 3
 
-Volume 3 has sold out! Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
+Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+
+Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
 Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -23,11 +30,16 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 ## Volume 2
 
+Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
 <a class="button" href="http://atlasofdesign.org/two">View Volume 2</a>
 
 ## Volume 1
+
+Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+
 Physical details: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 Browse the maps from Volume 1 here:
 
