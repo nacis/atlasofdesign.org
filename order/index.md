@@ -5,7 +5,8 @@ header_img: /img/vol3_2226_clip.jpg
 ---
 
 Pre-orders for the _Atlas of Design, Volume 4_ are now open! 
-<br>Pre-orders will close on August 15, 2018.
+<br>~Pre-orders will close on August 15, 2018.~ <br>We have extended the pre-order deadline to September 15, 2018. 
+<br>
 We expect to ship copies of Volume 4 in October of 2018. 
 <br><br>
 <b>The _Atlas of Design, Volume 4_ is available for $35 plus shipping and handling. </b>
