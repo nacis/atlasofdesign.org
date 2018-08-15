@@ -12,7 +12,7 @@ We expect to ship copies of Volume 4 in October of 2018.
 <b>The _Atlas of Design, Volume 4_ is available for $35 plus shipping and handling. </b>
 <br>
 
-*All NACIS members recieve a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
+*All NACIS members receive a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
 
 
 
