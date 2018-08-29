@@ -1,5 +1,5 @@
 ---
-title: "An August Update”
+title: "An August Update"
 layout: post
 ---
 
