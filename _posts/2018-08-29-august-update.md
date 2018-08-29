@@ -1,3 +1,4 @@
+
 ---
 title: "An August Update"
 layout: post
