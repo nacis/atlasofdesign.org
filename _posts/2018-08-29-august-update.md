@@ -1,9 +1,7 @@
-
 ---
 title: "An August Update"
 layout: post
 ---
-
 
 As we are finishing the commentary text, composing the layout, preparing files for the press, and giving interviews with several media outlets, the pre-orders are rolling in!  
 
