@@ -1,5 +1,5 @@
 ---
-title: "An August Update"
+title: "Pre-orders Update & FAQ"
 layout: post
 ---
 
