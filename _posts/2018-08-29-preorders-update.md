@@ -37,12 +37,12 @@ For your reference, here is a table of the shipping totals.
 |---|---|---|---|
 | One copy | $6.95 | $17.95 | $27.95 | 
 | Two copies | $10.95 | $35.90 | $55.90 |
-| Additional copies | Add $4 per copy | Email us your shipping city for a quote | Email us your shipping city for a quote | 
+| Additional copies | Each additonal copy will add $4 ([order through our web store](https://atlasofdesign.bigcartel.com/)) | [Email us](mailto:atlas@nacis.org) your shipping city for a quote | [Email us](mailto:atlas@nacis.org) your shipping city for a quote | 
 
 
 That cost is actually shipping _and_ handling; it includes $3.00 per copy that we pay to our fulfillment company for packaging and labor (no matter the shipping location). In retrospect, I see that we could have priced the book at $38, including the $3 packaging and labor fees into the cover price instead, which would make the shipping price look less intimidating. 
 
-Based on prior volumes, a package with one book will weigh about 2.3 pounds. Within the USA, we can ship that by Media Mail for $3.95. To Canada, the shipping portion of the cost is $14.95; anywhere else, $24.95. Within the USA, each additonal book adds a $3 handling fee and raises shipping by $1. Orders of two copies outside the USA are simply double the shipping price of one copy. When you order three or more copies sent outside the USA, please contact us for a shipping discount, as the price per-book begins to go down at that point.
+Based on prior volumes, a package with one book will weigh about 2.3 pounds. Within the USA, we can ship that by Media Mail for $3.95. To Canada, the shipping portion of the cost is $14.95; anywhere else, $24.95. Within the USA, each additional book adds a $3 handling fee and raises shipping by $1. Orders of two copies outside the USA are simply double the shipping price of one copy. When you order three or more copies sent outside the USA, please contact us for a shipping discount, as the price per-book begins to go down at that point.
 
 Outside of the USA, large orders can help you save on shipping (please contact us)! We had a group of customers collaborate to place one order of 9 copies to Germany, and their shipping costs averaged out to somewhere around $13.50 apiece. 
 
