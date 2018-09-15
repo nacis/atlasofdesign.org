@@ -19,7 +19,7 @@ We expect to ship copies of Volume 4 by the end of October 2018.
 </a>
 <br/>
 
-**Going to NACIS 2018?** Save on shipping if you are able to pick up your order at the <a href="http://nacis.org/annual-meeting/current-meeting/" target="_blank">2018 NACIS annual meeting</a> in Norfolk, Virginia! Please pre-order using our special listing: 
+**Going to NACIS 2018?** Save on shipping if you are able to pick up your order at the <a href="http://nacis.org/annual-meeting/current-meeting/" target="_blank">2018 NACIS annual meeting</a> in Norfolk, Virginia! Please order using our special listing: 
 
 <a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-v4-nacis-2018" target="_blank" class="button button-red">
 ORDER V4 FOR PICKUP AT NACIS <i class="fa fa-shopping-cart"></i>
