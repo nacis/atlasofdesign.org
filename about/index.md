@@ -15,7 +15,7 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 4
 
-Volume 4 is available for pre-order! Please visit our [orders page](/order).
+Volume 4 is available for order! Please visit our [orders page](/order). Copies of Volume 4 will ship by end of October 2018. 
 
 
 ## Volume 3
