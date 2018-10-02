@@ -4,7 +4,7 @@ layout: page
 header_img: /img/vol3_2226_clip.jpg
 ---
 
-Pre-orders have closed, and orders are now open! There are now a finite number of books available, and they sell until they sell out! (Everything is the same price as pre-orders). 
+Orders for Volume 4 are open! There are now a finite number of books available, and they sell until they sell out! (Everything is the same price as pre-orders). 
 
 We expect to ship copies of Volume 4 by the end of October 2018. 
 <br><br>
