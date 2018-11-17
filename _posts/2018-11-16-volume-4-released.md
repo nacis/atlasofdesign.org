@@ -21,9 +21,10 @@ It has been a few weeks since the initial release of the 2018 Atlas of Design at
 </td>
 </tr>
 </table>
-<br><br>
+<a href="https://photos.app.goo.gl/2oAq5PWJ2fZ4bRXw5" target="_blank">Browse more images here</a>
+<br>
 We enjoyed talking with people about the book, and were thrilled to meet many of the cartographers featured in the atlas. To see their delight when they thumbed through the Atlas and found their maps and essays was a great reward. Many of the atlas finalists presented on their work and methods at the conference as well.
-<br> <br>
+<br> 
 
 <table>
 <tr>
@@ -35,11 +36,11 @@ We enjoyed talking with people about the book, and were thrilled to meet many of
 </td>
 </tr>
   <tr>
-  <td>Atlas of Design Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018 </td>
-  <td>Nathaniel Douglass gets a first look at his map featured in Volume 4 </td>
+  <td style="border: none;">Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018 </td>
+  <td style="border: none;">Nathaniel Douglass gets a first look at his map featured in Volume 4 </td>
   </tr>
 </table>
-<br><br>
+<br>
 The editorial team also presented on the behind-the scenes process of making the atlas, including a look at how entries are judged and how the book is produced. If you would like to view the talk, it will be available on YouTube in a few weeks.(LINK to NACIS Youtube)
 
 We are thrilled to see the Atlas continue to serve as an ambassador for cartography. It continues to reach people far beyond our organization and from all over the world to help answer the question of what cartographers do by showing the breadth and depth of our profession. We’ve been retweeting folks who have been sharing their excitement on Twitter. Be sure to tag [@NACIS_Atlas](https://twitter.com/NACIS_Atlas) to share your thoughts on the atlas. 
