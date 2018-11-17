@@ -5,18 +5,18 @@ layout: post
 
 It has been a few weeks since the initial release of the 2018 Atlas of Design at the annual North American Cartographic Information Society (NACIS) conference in Norfolk, Virginia. Here are a few photos of the book (_ooh, aah, nice_)! 
 
-<table style="border-color: none;">
+<table>
 <tr>
-<td>
+<td style="border: none;">
 <figure class="image"><img src="/img/v4_06192.jpg" alt="Atlas of Design Volume 4"></figure>
-</td><td>
+</td><td style="border: none;">
 <figure class="image"><img src="/img/aodv4_06250.jpg" alt="Atlas of Design Volume 4"></figure>
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 <figure class="image"><img src="/img/v4_06181.jpg" alt="Atlas of Design Volume 4"></figure>
-</td><td>
+</td><td style="border: none;">
 <figure class="image"><img src="/img/v4_06168.jpg" alt="Atlas of Design Volume 4"></figure>
 </td>
 </tr>
