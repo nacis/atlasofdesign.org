@@ -23,6 +23,7 @@ It has been a few weeks since the initial release of the 2018 Atlas of Design at
 </table>
 <a href="https://photos.app.goo.gl/2oAq5PWJ2fZ4bRXw5" target="_blank">Browse more images here</a>
 <br>
+<br>
 We enjoyed talking with people about the book, and were thrilled to meet many of the cartographers featured in the atlas. To see their delight when they thumbed through the Atlas and found their maps and essays was a great reward. Many of the atlas finalists presented on their work and methods at the conference as well.
 <br> 
 
