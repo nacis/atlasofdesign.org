@@ -27,10 +27,10 @@ We enjoyed talking with people about the book, and were thrilled to meet many of
 <table>
 <tr>
 <td style="border: none;">
-<figure class="image"><img src="/img/v4editors_nacis_web.jpg" alt="Atlas of Design Volume 4 Editors at NACIS 2018"><figcaption>Atlas of Design Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018</figcaption></figure>
+<figure class="image"><a href="http://atlasofdesign.org/img/v4editors_nacis_web.jpg" target="_blank"><img src="/img/v4editors_nacis_web.jpg" alt="Atlas of Design Volume 4 Editors at NACIS 2018"></a><figcaption>Atlas of Design Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018</figcaption></figure>
 </td></tr><tr>
   <td style="border: none;">
-<figure class="image"><img src="/img/v4_ndouglass_nacis.jpg" alt="Nathaniel Douglass at NACIS 2018"><figcaption>Nathaniel Douglass gets a first look at his map featured in Volume 4 </figcaption></figure>
+<figure class="image"><a href="http://atlasofdesign.org/img/v4_ndouglass_nacis.jpg" target="_blank"><img src="/img/v4_ndouglass_nacis.jpg" alt="Nathaniel Douglass at NACIS 2018"></a><figcaption>Nathaniel Douglass gets a first look at his map featured in Volume 4 </figcaption></figure>
 </td>
 </tr>
 </table>
