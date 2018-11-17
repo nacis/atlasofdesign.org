@@ -8,7 +8,7 @@ It has been a few weeks since the initial release of the 2018 Atlas of Design at
 <table>
 <tr>
 <td style="border: none;">
-<figure class="image"><img src="/img/v4_06192.jpg" alt="Atlas of Design Volume 4"></figure>
+  <a href="http://atlasofdesign.org/img/v4_06192.jpg" target="_blank"><figure class="image"><img src="/img/v4_06192.jpg" alt="Atlas of Design Volume 4"></figure></a>
 </td><td style="border: none;">
 <figure class="image"><img src="/img/aodv4_06250.jpg" alt="Atlas of Design Volume 4"></figure>
 </td>
