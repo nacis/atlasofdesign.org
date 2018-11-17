@@ -24,15 +24,20 @@ It has been a few weeks since the initial release of the 2018 Atlas of Design at
 <br><br>
 We enjoyed talking with people about the book, and were thrilled to meet many of the cartographers featured in the atlas. To see their delight when they thumbed through the Atlas and found their maps and essays was a great reward. Many of the atlas finalists presented on their work and methods at the conference as well.
 <br> <br>
+
 <table>
 <tr>
 <td style="border: none;">
-<figure class="image"><a href="http://atlasofdesign.org/img/v4editors_nacis_web.jpg" target="_blank"><img src="/img/v4editors_nacis_web.jpg" alt="Atlas of Design Volume 4 Editors at NACIS 2018"></a><figcaption>Atlas of Design Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018</figcaption></figure>
-</td></tr><tr>
-  <td style="border: none;">
-<figure class="image"><a href="http://atlasofdesign.org/img/v4_ndouglass_nacis.jpg" target="_blank"><img src="/img/v4_ndouglass_nacis.jpg" alt="Nathaniel Douglass at NACIS 2018"></a><figcaption>Nathaniel Douglass gets a first look at his map featured in Volume 4 </figcaption></figure>
+<figure class="image"><a href="http://atlasofdesign.org/img/v4editors_nacis_web.jpg" target="_blank"><img src="/img/v4editors_nacis_web.jpg" alt="Atlas of Design Volume 4 Editors at NACIS 2018"></a></figure>
+</td>
+<td style="border: none;">
+<figure class="image"><a href="http://atlasofdesign.org/img/v4_ndouglass_nacis.jpg" target="_blank"><img src="/img/v4_ndouglass_nacis_small.jpg" alt="Nathaniel Douglass at NACIS 2018"></a></figure>
 </td>
 </tr>
+  <tr>
+  <td>Atlas of Design Volume 4 Editors Alethea, Caroline, and Lauren at NACIS 2018 </td>
+  <td>Nathaniel Douglass gets a first look at his map featured in Volume 4 </td>
+  </tr>
 </table>
 <br><br>
 The editorial team also presented on the behind-the scenes process of making the atlas, including a look at how entries are judged and how the book is produced. If you would like to view the talk, it will be available on YouTube in a few weeks.(LINK to NACIS Youtube)
