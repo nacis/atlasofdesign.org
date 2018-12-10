@@ -7,7 +7,7 @@ header_img: /img/vol3_2226_clip.jpg
 **Volume 4 is sold out.** 
 <br>However, there are still some chances to get ahold of the book: 
 
-Buy slightly damaged copies are available at a discount: 
+Slightly damaged copies are available at a discount: 
 
 <a href="https://atlasofdesign.bigcartel.com/product/volume-4-damaged-cover" target="_blank" class="button button-red">Buy a copy of V4 with some cover wear <i class="fa fa-shopping-cart"></i>
 </a>
