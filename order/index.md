@@ -24,11 +24,6 @@ On this waitlist, we will not charge you until we are able to ship the book to y
 
 *All NACIS members receive a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
 
-
-
-
-<br/>
-
 <br><br>
 ## Reprints
 Volumes 1, 2, and 3 of the _Atlas of Design_ are currently sold out. We are now ready to offer reprints of Volumes 1, 2, and 3 if enough people are interested. Please visit our [reprints page](/reprints)! 
