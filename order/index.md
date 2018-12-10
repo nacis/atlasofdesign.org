@@ -4,19 +4,27 @@ layout: page
 header_img: /img/vol3_2226_clip.jpg
 ---
 
-Orders for Volume 4 are open! There are now a finite number of books available, and they sell until they sell out! (Everything is the same price as pre-orders). 
+**Volume 4 is sold out.** However, there are still some chances to get ahold of the book: 
 
-We expect to ship copies of Volume 4 in November of 2018. 
-<br><br>
-<b>The _Atlas of Design, Volume 4_ is available for $35 plus shipping and handling. </b>
+Slightly damaged copies are available at a discount: 
 <br>
+<a href="https://atlasofdesign.bigcartel.com/product/volume-4-damaged-cover" target="_blank" class="button button-red">Buy a copy of V4 with some cover wear <i class="fa fa-shopping-cart"></i>
+</a>
+<br>
+ or 
+<br>
+Join our waitlist here, and we may be able to sell you our 'backup' copies as they become available. 
+On this waitlist, we will not charge you until we are able to ship the book to you. 
+
+<a href="https://atlasofdesign.bigcartel.com/product/volume-4-damaged-cover" target="_blank" class="button button-green">Join V4 waitlist<i class="fa fa-list"></i>
+</a>
+
 
 *All NACIS members receive a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
 
 
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-v4" target="_blank" class="button button-red">ORDER V4 <i class="fa fa-shopping-cart"></i>
-</a>
+
 <br/>
 
 <br><br>
