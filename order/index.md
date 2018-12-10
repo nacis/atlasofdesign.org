@@ -20,11 +20,11 @@ On this waitlist, we will not charge you until we are able to ship the book to y
 
 <a href="https://shop.trycelery.com/page/5bd1072730e4c3140091a5ce" target="_blank" class="button button-blue">Join V4 waitlist <i class="fa fa-list"></i>
 </a>
-
+<br>
 ## Discount for NACIS Members
 
 *All NACIS members receive a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
 
-<br><br>
+<br>
 ## Reprints
 Volumes 1, 2, and 3 of the _Atlas of Design_ are currently sold out. We are now ready to offer reprints of Volumes 1, 2, and 3 if enough people are interested. Please visit our [reprints page](/reprints)! 
