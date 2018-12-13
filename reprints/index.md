@@ -4,23 +4,10 @@ layout: page
 header_img: /img/vol3_2227_clip.jpg
 ---
 
-Did you miss out on a previous volume of the Atlas of Design? Now’s your chance to complete your collection! We’re ready to offer reprints of Volumes 1, 2, and 3 if enough people are interested.
+Did you miss out on Volumes 1, 2, or 3 of the Atlas of Design? Now’s your chance to complete your collection! <em>In 2019, we’ll be reprinting our first three books, and you can place your pre-orders now.</em> We estimate delivery in the first quarter of the year.
 
-<em>We need a minimum number of orders to be able to commit to a reprint.</em> So, here’s how it works: click on the buttons below to order your copies of each volume. Your credit card will not be charged until we meet our target, at which point we’ll let you know that the reprint is going ahead. If we don’t get enough orders, your order will be canceled and you won’t be charged anything.
+If you already ordered via Celery during our pledge period, before we committed to a reprint, there is no need to re-order here.  
 
-Think of it as our own version of Kickstarter: no one pays anything until we know there’s enough interest to move forward. With your help, we can get these great collections of beautiful maps into new homes, many of whom have been waiting for years to have a chance to own one.
-
-
-<a href="https://shop.trycelery.com/page/5a936d1ef5e3501400d932a1" target="_blank" class="button button-blue">
-ORDER VOLUME 1 REPRINT <i class="fa fa-book"></i>
+<a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-blue">
+ORDER REPRINTS <i class="fa fa-book"></i>
 </a>
-
-<a href="https://shop.trycelery.com/page/5b3be3a7c078cb14006f47bb" target="_blank" class="button button-blue">
-ORDER VOLUME 2 REPRINT <i class="fa fa-book"></i>
-</a>
-
-<a href="https://shop.trycelery.com/page/5b3be3d28945a01400e23787" target="_blank" class="button button-blue">
-ORDER VOLUME 3 REPRINT <i class="fa fa-book"></i>
-</a>
-
-<br><em>Please note that we cannot offer a combined bundle of all 3 reprint volumes. </em>Depending on demand, it's possible that we might only reprint some of the volumes, or reprint them at different times. So we must offer each as a separate transaction. Sorry for the inconvenience!
