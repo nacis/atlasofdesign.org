@@ -21,6 +21,6 @@ On this waitlist, we will not charge you until we are able to ship the book to y
 <br><br>
 ## Discount for NACIS Members
 
-*All NACIS members receive a 25% discount on their orders. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
+*All NACIS members receive a 25% discount on their orders of Volume 4. Sign in at <a href="http://nacis.org/atlas-of-design-discount-code" target="_blank"> nacis.org/atlas-of-design-discount-code</a>*
 
 
