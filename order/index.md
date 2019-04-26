@@ -11,6 +11,7 @@ header_img: /img/vol3_2226_clip.jpg
 
 <br>
 ## Reprints
+
 Reprints of Volumes 1, 2, and 3 are now shipping out and are available for purchase! Please visit our [reprints page](/reprints)! 
  
 
