@@ -42,7 +42,7 @@ We enjoyed talking with people about the book, and were thrilled to meet many of
   </tr>
 </table>
 <br>
-The editorial team also presented on the behind-the scenes process of making the atlas, including a look at how entries are judged and how the book is produced. If you would like to view the talk, it will be available on YouTube in a few weeks.(LINK to NACIS Youtube)
+The editorial team also presented on the behind-the scenes process of making the atlas, including a look at how entries are judged and how the book is produced. If you would like to view the talk, it will be [available on YouTube](https://www.youtube.com/channel/UCxleHCzc6YynGbzJMWx6C7w) in a few weeks. 
 
 We are thrilled to see the Atlas continue to serve as an ambassador for cartography. It continues to reach people far beyond our organization and from all over the world to help answer the question of what cartographers do by showing the breadth and depth of our profession. We’ve been retweeting folks who have been sharing their excitement on Twitter. Be sure to tag [@NACIS_Atlas](https://twitter.com/NACIS_Atlas) to share your thoughts on the atlas. 
 
