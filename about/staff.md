@@ -9,15 +9,26 @@ header_caption: "Portland Finger Plans (Ryan Sullivan)"
 The Atlas of Design is a product of the <a href="http://nacis.org">North American Cartographic Information Society</a>, and is prepared by a small but enthusiastic staff of volunteers:
 
 #### Editors
-<strong>Alethea Steingisser</strong> is a cartographer and production manager at the University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>.
 
-<strong>Lauren Tierney</strong> is a cartographer and graphics reporter at The Washington Post. She enjoys telling stories with maps and specializes in mapping wildlife, environment, and adventure topics.  You can find her on Twitter at <a href="https://twitter.com/tierneyl">@tierneyl</a>, or at <a href="http://www.laurenctierney.com">laurenctierney.com</a>.
+<strong>Nat Case</strong>
+
+
+<strong>Brooke Marston</strong>
+
 
 <strong>Caroline Rose</strong> is a GIS specialist and cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Find her on Twitter at <a href="https://twitter.com/cmrrose">@cmrRose</a>.
+
+<strong>Vanessa Knoppke-Wetzel</strong>
 
 
 
 <h4>Past Editors</h4>
+
+<strong>Alethea Steingisser</strong> served as an editor for Volume 4 and is a cartographer and production manager at the University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>.
+
+<strong>Lauren Tierney</strong> served as an editor for Volume 4 and is a cartographer and graphics reporter at The Washington Post. She enjoys telling stories with maps and specializes in mapping wildlife, environment, and adventure topics.  You can find her on Twitter at <a href="https://twitter.com/tierneyl">@tierneyl</a>, or at <a href="http://www.laurenctierney.com">laurenctierney.com</a>.
+
+
 <strong>Ginny Mason</strong> was the Assistant Editor for the third volume of the <em>Atlas of Design</em> and is a former cartographer and graphics editor at National Geographic Magazine.  She is now Senior Cartographer at S&P Global Platts. She likes maps that help people make informed decisions. You can follow her on Twitter at <a href="https://twitter.com/masonginny" target="_blank">@masonginny</a>.<br/><br/>
 
 
