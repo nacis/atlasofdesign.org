@@ -13,12 +13,12 @@ The Atlas of Design is a product of the <a href="http://nacis.org">North America
 <strong>Nat Case</strong> is a freelance cartographer in Minneapolis who has been making maps and managing publications since 1989. He is co-owner of INCase, LLC. He's also a morris dancer and organizes pub sings in the Twin Cities. He's not on Twitter, but you can find him on Facebook, where he's very active.
 
 <strong>Brooke Marston</strong>
-Brooke Marston is a cartographer in the Office of the Geographer and Global Issues at the U.S. Department of State. She enjoys making maps and infographics that contribute to all-source analysis to aid foreign policy, coordination, and diplomatic negotiations. She specializes in mountain cartography and terrain visualization. You can find her on Twitter at @mappingMarston.
+Brooke Marston is a cartographer in the Office of the Geographer and Global Issues at the U.S. Department of State. She enjoys making maps and infographics that contribute to all-source analysis to aid foreign policy, coordination, and diplomatic negotiations. She specializes in mountain cartography and terrain visualization. You can find her on Twitter at <a href="https://twitter.com/mappingMarston">@mappingMarston</a>.
 
 <strong>Caroline Rose</strong> is a GIS specialist and cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Find her on Twitter at <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
 <strong>Vanessa Knoppke-Wetzel</strong>
-Vanessa is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is the Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on twitter: @run_for_funner
+Vanessa is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is the Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on twitter: <a href="https://twitter.com/run_for_funner">@run_for_funner</a>
 
 
 <h4>Past Editors</h4>
