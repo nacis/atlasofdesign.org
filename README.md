@@ -6,8 +6,9 @@ The Atlas of Design is dedicated to showing off some of the world’s most beaut
 
 #### The Team
 
-* Alethea Steingisser, Editor
-* Lauren Tierney, Editor
+* Nat Case, Editor
+* Brooke Marston, Editor
+* Vanessa Knoppke-Wetzel, Editor
 * Caroline Rose, Editor
 
 ## Installation
