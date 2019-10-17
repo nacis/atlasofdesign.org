@@ -36,7 +36,11 @@ layout: post
 
 New post content.
 ```
-If this YAML section doesn't appear like a little table in the Preview Changes tab, you may need to double-check that your quotation marks around the post title are the "straight" type-- just replace them in the github editing window. Also check that you included the empty line at the very top of the YAML. 
+If this YAML section doesn't appear like a little table in the Preview Changes tab, you may need to double-check these items: 
+
+* that your quotation marks around the post title are the "straight" type-- just replace them in the github editing window. 
+* Also check that you included the empty line at the very top of the YAML. 
+* Check that your file name includes ".md" at the end, so that github knows it is a markdown file. 
 
 All posts are written in [Markdown](https://daringfireball.net/projects/markdown/). You can also add HTML!
 
