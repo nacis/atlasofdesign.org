@@ -10,7 +10,7 @@ Volume 4 editor Caroline Rose will continue with Volume 5. She is joined by thre
 
 
 ## Now accepting submissions for Volume 5 
-Please enter your work to be considered for Volume 5! This book depends on the generosity of cartographers who volunteer their work. Please submit your work at http://atlasofdesign.org.submit 
+Please enter your work to be considered for Volume 5! This book depends on the generosity of cartographers who volunteer their work. Please submit your work at http://atlasofdesign.org/submit 
 
 
 ## Volumes 1-3 for sale 
