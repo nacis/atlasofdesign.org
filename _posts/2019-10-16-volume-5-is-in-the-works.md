@@ -10,9 +10,9 @@ Volume 4 editor Caroline Rose will continue with Volume 5. She is joined by thre
 
 
 ## Now accepting submissions for Volume 5 
-Please enter your work to be considered for Volume 5! This book depends on the generosity of cartographers who volunteer their work. Please submit your work at http://atlasofdesign.org/submit 
+Please enter your work to be considered for Volume 5! This book depends on the generosity of cartographers who volunteer their work. Please submit your work at <a href="https://atlasofdesign.org/submit">https://atlasofdesign.org/submit</a>
 
 
 ## Volumes 1-3 for sale 
-Copies of Volumes 1, 2, and 3 have been reprinted and are now available for $35 plus shipping and handling on our web sales platform, BigCartel. Buy them here: https://atlasofdesign.bigcartel.com/  
+Copies of Volumes 1, 2, and 3 have been reprinted and are now available for $35 plus shipping and handling on our web sales platform, BigCartel. Buy them here: <a href="https://atlasofdesign.bigcartel.com/">https://atlasofdesign.bigcartel.com/</a>
 Volume 4 remains out of print for now. 
