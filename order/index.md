@@ -8,7 +8,9 @@ header_img: /img/vol3_2226_clip.jpg
 
 <a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-blue">ORDER BOOKS  <i class="fa fa-book"></i></a>
 
-
+<br>
+<hr>
+<br>
 
 **Volume 4** is currently sold out; however, you can join our waitlist to be notified if we ever have Volume 4 reprinted: 
 
