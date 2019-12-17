@@ -20,7 +20,8 @@ Volume 4 is sold out.
 You can join the waiting list for reprints of Volume 4 here: 
 <a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button button-blue">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
 
-Preview the maps featured in Volume 4 here: 
+Preview the maps featured in Volume 4 here:  <br>
+
 <a class="button" href="http://atlasofdesign.org/four">View Volume 4</a>
 
 ## Volume 3
