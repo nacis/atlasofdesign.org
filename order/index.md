@@ -6,7 +6,7 @@ header_img: /img/vol3_2226_clip.jpg
 
 **Volumes 1, 2, and 3** of the <em>Atlas of Design</em> have been reprinted and are now available to order from [our web store](https://atlasofdesign.bigcartel.com/). 
 
-<a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-yellow">ORDER BOOKS<i class="fa fa-book-open"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-blue">ORDER BOOKS<i class="fa fa-book"></i></a>
 
 
 
