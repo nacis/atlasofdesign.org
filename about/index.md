@@ -15,12 +15,17 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 4
 
-Volume 4 is available for order! Please visit our [orders page](/order). Copies of Volume 4 will ship by end of October 2018. 
+Volume 4 is sold out. 
 
+You can join the waiting list for reprints of Volume 4 here: 
+<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button button-blue">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
+
+Preview the maps featured in Volume 4 here: 
+<a class="button" href="http://atlasofdesign.org/four">View Volume 4</a>
 
 ## Volume 3
 
-Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
 
 Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
@@ -30,7 +35,7 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 ## Volume 2
 
-Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -38,9 +43,12 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 ## Volume 1
 
-Volumes 1-3 have sold out, but we are ready to offer a reprint, if we get enough support! Please visit our [reprints page](/reprints).
+Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
 
-Physical details: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
+The reprinted version of Volume 1 has been redesigned to match the size of Volumes 2, 3, and 4 with 12" x 9" pages.  
+
+Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
+
 Browse the maps from Volume 1 here:
 
 <a class="button" href="http://atlasofdesign.org/one">View Volume 1</a>
