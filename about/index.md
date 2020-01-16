@@ -13,12 +13,19 @@ The <em>Atlas</em> aims to inspire readers both within the field of cartograph
 
 The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
+## Volume 5 
+
+Volume 5 is now in progress. We are currently accepting submissions of maps to be featured in Volume 5. Please visit our [submissions page](/submit) to enter your work for consideration. 
+
+We expect Volume 5 to be published in late 2020. 
+
+
 ## Volume 4
 
 Volume 4 is sold out. 
 
 You can join the waiting list for reprints of Volume 4 here: 
-<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button button-blue">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
+<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
 
 Preview the maps featured in Volume 4 here:  <br>
 
