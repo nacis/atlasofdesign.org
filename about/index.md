@@ -24,7 +24,7 @@ We expect Volume 5 to be published in late 2020.
 
 Volume 4 is sold out. 
 
-You can join the waiting list for reprints of Volume 4 here: 
+You can join the waiting list for reprints of Volume 4 here: <br>
 <a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
 
 Preview the maps featured in Volume 4 here:  <br>
