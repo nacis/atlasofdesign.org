@@ -15,7 +15,7 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 5 
 
-Volume 5 is now in progress. We are currently accepting submissions of maps to be featured in Volume 5. Please visit our [submissions page](/submit) to enter your work for consideration. 
+Volume 5 is in progress. We have now closed the submission period for maps and will continue with map selection, layout, and production in the coming months.  
 
 We expect Volume 5 to be published in late 2020. 
 
