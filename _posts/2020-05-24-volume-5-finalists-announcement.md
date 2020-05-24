@@ -8,6 +8,7 @@ We had over 450 total entries for this year’s atlas, which is more than any pr
 In alphabetical order by title, here are the 2020 finalists; these maps will be included in Volume 5:
 
 ### 2020 Atlas of Design Finalists: 
+
 | Title | Authors |
 | :--- | :--- |
 | A Hexagonal Tile Grid of American Counties | William M. Hartnett |
@@ -50,6 +51,7 @@ Congratulations to all finalists!
 
 Additionally, we would like to recognize the following maps with an honorable mention: 
 ### 2020 Honorable Mention: 
+
 | Title | Authors |
 | :--- | :--- |
 | Metroworld | Nathan Kaufmann | 
