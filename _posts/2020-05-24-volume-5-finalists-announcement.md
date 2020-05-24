@@ -5,7 +5,7 @@ layout: post
 
 We had over 450 total entries for this year’s atlas, which is more than any previous volume! After a long process of deliberation, we have selected 32 maps to be featured in the 2020 edition of the atlas.  
 
-In alphabetical order by title, here are the 2020 finalists; these maps will be included in Volume 5:
+In alphabetical order by title, here are the 2020 finalists; these maps will be included in Volume 5 (attributions may be updated):
 
 ### 2020 Atlas of Design Finalists: 
 
