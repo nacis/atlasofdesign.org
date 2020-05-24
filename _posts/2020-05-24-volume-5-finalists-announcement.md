@@ -33,7 +33,7 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 | Série “Le Temps De L’île” : Mayotte Et Les Îles Du Ponant (Island Time Serie : Mayotte And Ponant Islands) | Collective of Le Monde graphics department, under the direction of Delphine Papin  |
 | South of Bass Strait | Alex Hotchin |
 | Surfing Saco Bay | Margot Carpenter |
-| The Blessed Dhofar Region & The Frankincense Trail | Antonio Farach, Winie Ariany, Adonis Durado |
+| The Blessed Dhofar Region *and* The Frankincense Trail | Antonio Farach, Winie Ariany, Adonis Durado / Antonio Farach, Adonis Durado, Jorge Cortes, Isidore Vic Carloman, Muthita Torteeka |
 | The Essential Geography of Oregon | David Imus |
 | The first 100 days of protests in Hong Kong | Pablo Robles |
 | The Lost Treasures of Isla del Coco | Jakob Listabarth |
