@@ -11,9 +11,6 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 
 | Title | Authors |  
 | :--- | :--- |  
-| A Hexagonal Tile Grid of American Counties | William M. Hartnett |  
-| A New and Complete Map of the Inside Passage Covering the Journey from Bellingham to Juneau Including the Principal Islands, Settlements, Passages, &c. | Daniel P. Huffman |  
-| An orbit map of the solar system | Eleanor Lutz |  
 | Appalachian Trail Fold Out Shelter Reference and Journal-Atop Adventure Map | John Nelson and Erich Rainville |  
 | The Blessed Dhofar Region *and* The Frankincense Trail | Antonio Farach, Winie Ariany, Adonis Durado / Antonio Farach, Adonis Durado, Jorge Cortes, Isidore Vic Carloman, Muthita Torteeka |  
 | Botanical Worldmap Tapestry | Vanessa Barragão |  
@@ -26,6 +23,7 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 | The first 100 days of protests in Hong Kong | Pablo Robles |  
 | Grave Smoky Mountains National Park | Aaron Koelker |  
 | Greenland (Where the Ice Meets the Ocean) | Christopher Pollard |  
+| A Hexagonal Tile Grid of American Counties | William M. Hartnett |  
 | Holocaust by Bullets | Map concept and design by Edward Jacobs and Michael Berenbaum, Berenbaum Jacobs Associates; cartography by Alison DeGraff Ollivierre, Tombolo Maps & Design; and fabrication by Pacific Studio. Created for the Dallas Holocaust and Human Rights Museum. |  
 | How Birds Migrate | Matthew Chwastyk (National Geographic) |  
 | I Was There | Levi Westerveld and Anne Kelly Knowles |   
@@ -36,6 +34,8 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 | The Melbourne Map | Melinda Clarke |  
 | Nature in the City | Lindsay Irving |  
 | Near Tavistock, Devon & The Rural Devon Landscape | Victoria Rose Richards |  
+| A New and Complete Map of the Inside Passage Covering the Journey from Bellingham to Juneau Including the Principal Islands, Settlements, Passages, &c. | Daniel P. Huffman |  
+| An orbit map of the solar system | Eleanor Lutz |  
 | The Pacific's Fiery Ring | Matthew Chwastyk (National Geographic) |  
 | The Paris Map | Kevin Sheehan |  
 | Série “Le Temps De L’île” : Mayotte Et Les Îles Du Ponant (Island Time Serie : Mayotte And Ponant Islands) | Collective of Le Monde graphics department, under the direction of Delphine Papin  |  
