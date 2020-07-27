@@ -18,7 +18,7 @@ Brooke Marston is a cartographer in the Office of the Geographer and Global Issu
 <strong>Caroline Rose</strong> is a GIS specialist and cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Find her on Twitter at <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
 <strong>Vanessa Knoppke-Wetzel</strong>
-Vanessa is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is the Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on twitter: <a href="https://twitter.com/run_for_funner">@run_for_funner</a>
+Vanessa is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is a Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on twitter: <a href="https://twitter.com/run_for_funner">@run_for_funner</a>
 
 
 <h4>Past Editors</h4>
