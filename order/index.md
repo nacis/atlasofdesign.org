@@ -7,6 +7,8 @@ header_img: /img/vol3_2226_clip.jpg
 **Volume 5 is coming soon for pre-order!** We expect to open pre-orders during August 2020. [Visit our web store](https://atlasofdesign.bigcartel.com/product/pre-order-v5)! 
 Volume 5 is expected to ship in October or November of 2020. 
 
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-v5" target="_blank" class="button button-blue">PRE-ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
+
 <br>
 <hr>
 <br>
