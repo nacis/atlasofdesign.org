@@ -14,8 +14,7 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 | Appalachian Trail Fold Out Shelter Reference and Journal-Atop Adventure Map | John Nelson and Erich Rainville |  
 | The Blessed Dhofar Region *and* The Frankincense Trail | Antonio Farach, Winie Ariany, Adonis Durado / Antonio Farach, Adonis Durado, Jorge Cortes, Isidore Vic Carloman, Muthita Torteeka |  
 | Botanical Worldmap Tapestry | Vanessa Barragão |  
-| Cabalistic Craters | Soren Walljasper |  
-| Cape Horn. With a view of Tierra del Fuego, South America and Antarctica | Filippo Vanzo |  
+| Cabalistic Craters | Soren Walljasper |   
 | City of Kingkel | MistyBeee |  
 | Cross-sections through California | RJ Andrews |  
 | Divided Globe Triptych: Segment and Poles Apart | Loraine Rutt | 
@@ -54,6 +53,7 @@ Additionally, we would like to recognize the following maps with an honorable me
 
 | Title | Authors |  
 | :--- | :--- |  
+| Cape Horn. With a view of Tierra del Fuego, South America and Antarctica | Filippo Vanzo | 
 | Metroworld | Nathan Kaufmann |   
 | The High Price of Living High Tech | Ryan Morris (National Geographic Magazine) |   
 | American Nuclear Detonations: 1945-1992 | Peter Atwood |   
