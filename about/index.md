@@ -15,9 +15,12 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 5 
 
-Volume 5 is in progress. We have now closed the submission period for maps and will continue with map selection, layout, and production in the coming months.  
+Volume 5 is now available for pre-order! [Visit our web store](https://atlasofdesign.bigcartel.com/product/pre-order-v5)! 
+It is expected to ship in October or November of 2020. <br>
 
-We expect Volume 5 to be published in late 2020. 
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-v5" target="_blank" class="button button-blue">PRE-ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a> 
+
+[See our blog post](https://atlasofdesign.org/2020/05/24/volume-5-finalists-announcement/) for a list of the maps featured in Volume 5. 
 
 
 ## Volume 4
