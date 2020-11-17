@@ -14,7 +14,7 @@ In alphabetical order by title, here are the 2020 finalists; these maps will be 
 | Appalachian Trail Fold Out Shelter Reference and Journal-Atop Adventure Map | John Nelson and Erich Rainville |  
 | The Blessed Dhofar Region *and* The Frankincense Trail | Antonio Farach, Winie Ariany, Adonis Durado / Antonio Farach, Adonis Durado, Jorge Cortes, Isidore Vic Carloman, Muthita Torteeka |  
 | Botanical Worldmap Tapestry | Vanessa Barragão |  
-| Cabalistic Craters | Soren Walljasper |   
+| Chronicle of Craters | Soren Walljasper |   
 | City of Kingkel | MistyBeee |  
 | Cross-sections through California | RJ Andrews |  
 | Divided Globe Triptych: Segment and Poles Apart | Loraine Rutt | 
