@@ -4,10 +4,10 @@ layout: page
 header_img: /img/vol3_2226_clip.jpg
 ---
 
-**Volume 5 is now available for pre-order!** [Visit our web store](https://atlasofdesign.bigcartel.com/product/pre-order-v5)! 
-Volume 5 is expected to ship in October or November of 2020. 
+**Volume 5 of the <em>Atlas of Design</em> is now available for order!** [Visit our web store](https://atlasofdesign.bigcartel.com/)!  
+Volume 5 began shipping on November 23, 2020. 
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-v5" target="_blank" class="button button-blue">PRE-ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-5" target="_blank" class="button button-blue"> ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
 
 <br>
 <hr>
