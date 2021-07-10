@@ -9,11 +9,11 @@ For the second in our series of short interviews with <em>Atlas of Design </em
 
 <strong>Atlas of Design</strong>: After the inevitable robot takeover, you are hired to teach cartography to our new digital masters. What is their first lesson?
 
-<strong>Adam</strong>:010100110111010001101111011100000010000001110100011010000110100101101110011010110110100101101110011001110010000001100001011000100110111101110101011101000010000001110000011010010111100001100101011011000111001100100000011000010110111001100100001000000111011001100101011000110111010001101111011100100111001100101110
+<strong>Adam</strong>: <span style="overflow-wrap: break-word"> 010100110111010001101111011100000010000001110100011010000110100101101110011010110110100101101110011001110010000001100001011000100110111101110101011101000010000001110000011010010111100001100101011011000111001100100000011000010110111001100100001000000111011001100101011000110111010001101111011100100111001100101110</span>
 
 You read that right. Stop doing that. I would instruct the robots to bring in more tactile emotion mixed with a helping of heart. Then I would point and laugh and increase my fees.
 
-[caption id="attachment_250" align="alignleft" width="300"]<a href="/img/wp/2012/09/WilbertPreview.png"><img class="size-medium wp-image-250 " title="WilbertPreview" src="/img/wp/2012/09/WilbertPreview-300x128.png" alt="" width="300" height="128" /></a> Click to preview pages 52-54[/caption]
+<a href="/img/wp/2012/09/WilbertPreview.png"><img title="WilbertPreview" src="/img/wp/2012/09/WilbertPreview.png" alt="Wilbert map preview" width="300" height="128" /></a>
 
 <strong>AoD</strong>: Why did you put this map on ice for a time?
 
