@@ -6,11 +6,17 @@ header_img: /img/portland_bridges.jpg
 header_caption: "Portland Finger Plans (Ryan Sullivan)"
 ---
 
-The Atlas of Design is a product of the <a href="http://nacis.org">North American Cartographic Information Society</a>, and is prepared by a small but enthusiastic staff of volunteers:
+The Atlas of Design is a product of the [North American Cartographic Information Society](http://nacis.org), and is prepared by a small but enthusiastic staff of volunteers:
 
 #### Editors
 
 <strong>Nat Case</strong> is a freelance cartographer in Minneapolis who has been making maps and managing publications since 1989. He is co-owner of INCase, LLC. He's also a morris dancer and organizes pub sings in the Twin Cities. He's not on Twitter, but you can find him on Facebook, where he's very active.
+
+<strong>Tracy Tien</strong> is one half of the Spatial Analysis Lab at Smith College. She devises and incorporates cartography and spatial science in the curriculum, making a map or two along the way. She's an animal aficionado, compulsive book collector, and guardian to a 50 year old motorcycle.
+
+<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker)
+
+<strong>Josh Ryan</strong> is a Senior Front-end Developer for the San Antonio Spurs. While most of his time is spent thinking about basketball and ways to visualize it, he still gets time here and there to be with his first love: maps. You can find him on Twitter at [@karenkingfisher](https://twitter.com/karenkingfisher)
 
 
 <h4>Past Editors</h4>
