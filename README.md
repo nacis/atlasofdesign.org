@@ -7,9 +7,9 @@ The Atlas of Design is dedicated to showing off some of the world’s most beaut
 #### The Team
 
 * Nat Case, Editor
-* Brooke Marston, Editor
-* Vanessa Knoppke-Wetzel, Editor
-* Caroline Rose, Editor
+* Tracy Tien, Editor
+* Aaron Koelker, Editor
+* Josh Ryan, Editor
 
 ## Installation
 
@@ -36,17 +36,17 @@ layout: post
 
 New post content.
 ```
-If this YAML section doesn't appear like a little table in the Preview Changes tab, you may need to double-check these items: 
+If this YAML section doesn't appear like a little table in the Preview Changes tab, you may need to double-check these items:
 
-* that your quotation marks around the post title are the "straight" type-- just replace them in the github editing window. 
+* that your quotation marks around the post title are the "straight" type-- just replace them in the github editing window.
 * Also check that you included the empty line at the very top of the YAML. (maybe?)
-* Check that your file name includes ".md" at the end, so that github knows it is a markdown file. 
+* Check that your file name includes ".md" at the end, so that github knows it is a markdown file.
 
 All posts are written in [Markdown](https://daringfireball.net/projects/markdown/). You can also add HTML!
 
 #### Adding a link
 
-If you add a link, be sure that it starts with 'http://' ...otherwise your browser will just try to append your link to the URL you are already at. 
+If you add a link, be sure that it starts with 'http://' ...otherwise your browser will just try to append your link to the URL you are already at.
 
 #### Adding an image
 
