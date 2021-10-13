@@ -13,19 +13,25 @@ The <em>Atlas</em> aims to inspire readers both within the field of cartograph
 
 The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
-## Volume 5 
+## Volume 6
 
-Volume 5 is available for order! [Visit our web store](https://atlasofdesign.bigcartel.com/)! 
+Volume 6 is now in progress. We are currently accepting submissions of maps to be featured in Volume 6. Please visit our [submissions page](/submit) to enter your work for consideration.
+
+We expect Volume 6 to be published in late 2022.
+
+## Volume 5
+
+Volume 5 is available for order! [Visit our web store](https://atlasofdesign.bigcartel.com/)!
 Volume 5 is now shipping. <br>
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-5" target="_blank" class="button button-blue">ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a> 
+<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-5" target="_blank" class="button button-blue">ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
 
 <a class="button" href="http://atlasofdesign.org/five">View Volume 5</a>
 
 
 ## Volume 4
 
-Volume 4 is sold out. 
+Volume 4 is sold out.
 
 You can join the waiting list for reprints of Volume 4 here: <br>
 <a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
@@ -56,7 +62,7 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
 
-The reprinted version of Volume 1 has been redesigned to match the size of Volumes 2, 3, and 4 with 12" x 9" pages.  
+The reprinted version of Volume 1 has been redesigned to match the size of Volumes 2, 3, and 4 with 12" x 9" pages.
 
 Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 
