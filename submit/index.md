@@ -11,6 +11,5 @@ header_caption: "The Millford Track (Roger Smith)"
 
 You will be asked to submit your map as an image file (.jpg, .tif, .png, or .pdf), with the option to also include a website link.
 
-
-We look forward to reviewing the submissions for the fifth volume of the <em>Atlas of Design</em>!
+We look forward to reviewing the submissions for the sixth volume of the <em>Atlas of Design</em>!
 <br><br>-- Editors Nat, Aaron, Tracy, Josh
