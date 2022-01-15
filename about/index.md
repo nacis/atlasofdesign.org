@@ -60,7 +60,10 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 ## Volume 1
 
-Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
+Volume 1 is sold out.
+
+You can join the waiting list for reprints of Volume 1 here: <br>
+<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 1 reprints <i class="fa fa-list"></i></a>
 
 The reprinted version of Volume 1 has been redesigned to match the size of Volumes 2, 3, and 4 with 12" x 9" pages.
 
