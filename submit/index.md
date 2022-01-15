@@ -5,7 +5,7 @@ header_img: /img/millford.jpg
 header_caption: "The Millford Track (Roger Smith)"
 ---
 
-<a href="http://atlasofdesign.herokuapp.com" target="_blank">Submissions</a> for Volume VI of the _Atlas of Design_ are now open. The deadline for submissions is <b>January 17, 2022 at 11:59PM PST</b>.
+<a href="http://atlasofdesign.herokuapp.com" target="_blank">Submissions</a> for Volume VI of the _Atlas of Design_ are now open. The deadline for submissions is January 17, 2022 at 11:59PM PST (this has been extended to <b>January 31st, 2022 at 11:59 PST</b>).
 
 <a href="http://atlasofdesign.herokuapp.com/" class="button button-red">Submission Form <i class="fa fa-paper-plane"></i></a>
 
