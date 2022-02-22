@@ -5,11 +5,7 @@ header_img: /img/millford.jpg
 header_caption: "The Millford Track (Roger Smith)"
 ---
 
-<a href="http://atlasofdesign.herokuapp.com" target="_blank">Submissions</a> for Volume VI of the _Atlas of Design_ are now open. The deadline for submissions is January 17, 2022 at 11:59PM PST (this has been extended to <b>January 31st, 2022 at 11:59 PST</b>).
+Submissions for Volume VI of the _Atlas of Design_ are now closed.
 
-<a href="http://atlasofdesign.herokuapp.com/" class="button button-red">Submission Form <i class="fa fa-paper-plane"></i></a>
-
-You will be asked to submit your map as an image file (.jpg, .tif, .png, or .pdf), with the option to also include a website link.
-
-We look forward to reviewing the submissions for the sixth volume of the <em>Atlas of Design</em>!
+Thanks for all your submissions!
 <br><br>-- Editors Nat, Aaron, Tracy, Josh
