@@ -9,19 +9,19 @@ layout: post
 
 ***
 
-<img class="alignnone wp-image-1469 size-large" src="/img/vol6/Bathymetric_OverviewSplit.jpg" alt="lookinside-bathymetric-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/volumes/vol6/Bathymetric_OverviewSplit.jpg" alt="lookinside-bathymetric-1" width="1024" height="464" />
 
 *Bathymetric visualizations in Le pertuis d’Antioche* by Marine Le Breton, and *Murky Waters: Unmapped Areas of Seafloor* by Andrew Douglas-Clifford.
 
 The thing I admire most about Marine Le Breton’s map, *Le pertuis d’Antioche*, is the way it depicts such a complex assortment of water features. Simple variations in line patterns help differentiate the region’s various levels of sogginess; from areas of inland aquaculture and natural salt marshes, to tidal flats, shallow straits, and the deeper depths of the sea. Longer lines packed in dense weaves provide a sense of movement in the turbulent shallows, where shifting tides funnel seawater in and around the nooks and crannies of the coast. Squashed, organic coils resembling the warped shells of oysters indicate where they are grown and harvested in the inland marshes. And heading out toward the middle of the bay, the lines incrementally shorten and increase their spacing, emulating the calm of deeper waters, and their meandering paths suggesting the whirling eddies of ocean currents. The map lacks any sort of legend or guide to decipher these patterns, however, instead letting the patterns themselves do the work.
 
-<img class="alignnone wp-image-1469 size-large" src="/img/vol6/LePertuisDAntioche_Detail.jpg" alt="lookinside-bathymetric-2" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/volumes/vol6/LePertuisDAntioche_Detail.jpg" alt="lookinside-bathymetric-2" width="1024" height="464" />
 
 What you also won’t find here are channel markers, soundings, and other aids to navigation (though lights are marked with small stars) that you’d typically see on a nautical chart. And while the lines are drawn with precision, they don’t necessarily denote accuracy of placement. If you look at some satellite imagery of the area, you’ll see this is a fairly abstract portrait. The map veers closer to an art piece than a functional tool that you might use to navigate, but in lieu of accuracy, navigation, or any sort of true bathymetric data, the design choices here all work toward a common goal of bringing the reader to a certain feel and understanding of the place.
 
 Somewhat in contrast, Andrew Douglas-Clifford’s map, *Murky Waters: Unmapped Areas of Seafloor*, puts real-world data at the forefront and depicts its bathymetry in absolute terms. While *Le pertuis d’Antioche* mostly skips any references to hard data, here, the very existence of data (or lack thereof) is the focus of the map. Most maps are made to show where things are, but this one is really highlighting where something *isn’t*. The map projection (Spilhaus) presents our oceans as a single body, rather than the fractured segments we see in most maps, and helps better emphasize the large gaps in our global bathymetry data. It does a wonderful job of conveying to the reader just how little we know about the ocean floor.
 
-<img class="alignnone wp-image-1469 size-large" src="/img/vol6/MurkyWaters_Detail.jpg" alt="lookinside-bathymetric-3" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/volumes/vol6/MurkyWaters_Detail.jpg" alt="lookinside-bathymetric-3" width="1024" height="464" />
 
 I also particulary like how the thin, jagged lines of what’s been collected over the dark background of the unknown make the entire thing feel a bit like a scratch-off ticket, or those rainbow scratch papers you might have once been handed in art class. It really gives you a feeling of progress being made and revealing what lies beneath. This is also strengthened by the use of texture in the map’s unknown areas—the mottled coloring suggesting potential underwater canyons, trenches, and seamounts waiting just below the surface. If instead the map had used only a flat color, it might give the impression that there isn’t much of anything to be found in these unexplored areas.
 
