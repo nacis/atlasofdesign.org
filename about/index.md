@@ -15,14 +15,15 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 6
 
-Volume 6 is now in progress. We are currently accepting submissions of maps to be featured in Volume 6. Please visit our [submissions page](/submit) to enter your work for consideration.
+Volume 6 is now available for order.<br>
 
-We expect Volume 6 to be published in late 2022.
+<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-6" target="_blank" class="button button-blue">ORDER VOL 6  <i class="fa fa-hand-o-right"></i></a>
+
+<a class="button" href="http://atlasofdesign.org/six">View Volume 6</a>
 
 ## Volume 5
 
-Volume 5 is available for order! [Visit our web store](https://atlasofdesign.bigcartel.com/)!
-Volume 5 is now shipping. <br>
+Volume 5 is available for order.<br>
 
 <a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-5" target="_blank" class="button button-blue">ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
 
