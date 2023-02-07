@@ -43,7 +43,7 @@ Preview the maps featured in Volume 4 here:  <br>
 
 ## Volume 3
 
-Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
+Volume 3 has been reprinted and is now available to order. Please visit our [reprints page](/reprints).
 
 Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
@@ -53,7 +53,7 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 ## Volume 2
 
-Volumes 1-3 have been reprinted and are now available to order. Please visit our [reprints page](/reprints).
+Volume 2 has been reprinted and is now available to order. Please visit our [reprints page](/reprints).
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -63,10 +63,7 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 Volume 1 is sold out.
 
-You can join the waiting list for reprints of Volume 1 here: <br>
-<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 1 reprints <i class="fa fa-list"></i></a>
-
-The reprinted version of Volume 1 has been redesigned to match the size of Volumes 2, 3, and 4 with 12" x 9" pages.
+The reprinted version of Volume 1 was redesigned to match the size of subsequent volumes, with 12" x 9" pages.
 
 Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 
