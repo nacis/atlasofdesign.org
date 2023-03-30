@@ -12,14 +12,19 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Nat Case</strong> is a freelance cartographer in Minneapolis who has been making maps and managing publications since 1989. He is co-owner of INCase, LLC. He's also a morris dancer and organizes pub sings in the Twin Cities. He's not on Twitter, but you can find him on Facebook, where he's very active.
 
-<strong>Tracy Tien</strong> is one half of the Spatial Analysis Lab at Smith College. She devises and incorporates cartography and spatial science in the curriculum, making a map or two along the way. She's an animal aficionado, compulsive book collector, and guardian to a 50 year old motorcycle.
+<strong>Aileen Clarke</strong> is a freelance cartographer and developer currently based in Madison, WI. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a> or on Twitter at <a href="https://twitter.com/_AileenClarke">@_AileenClarke</a>.
 
-<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker)
+<strong>Daniel Coe</strong> is the graphics editor for the Washington Geological Survey in Olympia, Washington, where his work highlights the geomorphology and natural hazards of the region. When not making maps, he is usually out exploring the forests and waters of Washington with his family. You can find him at <a href="https://dancoecarto.com/">dancoecarto.com</a> or on Twitter at <a href="https://twitter.com/geo_coe">@geo_coe</a>.
 
-<strong>Josh Ryan</strong> is a Senior Front-end Developer for the San Antonio Spurs. While most of his time is spent thinking about basketball and ways to visualize it, he still gets time here and there to be with his first love: maps. You can find him on Twitter at [@karenkingfisher](https://twitter.com/karenkingfisher)
+<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
+
 
 
 <h4>Past Editors</h4>
+
+<strong>Josh Ryan</strong> served as editor for Volume 6 and is a Senior Front-end Developer for the San Antonio Spurs. While most of his time is spent thinking about basketball and ways to visualize it, he still gets time here and there to be with his first love: maps. You can find him on Twitter at [@karenkingfisher](https://twitter.com/karenkingfisher)
+
+<strong>Tracy Tien</strong> served as editor for Volume 6 and is one half of the Spatial Analysis Lab at Smith College. She devises and incorporates cartography and spatial science in the curriculum, making a map or two along the way. She's an animal aficionado, compulsive book collector, and guardian to a 50 year old motorcycle.
 
 <strong>Brooke Marston</strong> served as editor for Volume 5 and is a cartographer in the Office of the Geographer and Global Issues at the U.S. Department of State. She enjoys making maps and infographics that contribute to all-source analysis to aid foreign policy, coordination, and diplomatic negotiations. She specializes in mountain cartography and terrain visualization. You can find her on Twitter at <a href="https://twitter.com/mappingMarston">@mappingMarston</a>.
 
