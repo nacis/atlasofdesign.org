@@ -18,6 +18,8 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
 
+<strong>Erin Greb</strong> is a freelance cartographer, working with a variety of book publishers, and is also a contributing cartographer for Purple Lizard Maps. When not making maps of trails in the woods, she is out hiking or biking on them. You can find her at <a href="https://www.eringrebcartography.com/">www.eringrebcartography.com</a> or on Twitter at <a href="https://twitter.com/eringrebmaps">@eringrebmaps</a>.
+
 
 
 <h4>Past Editors</h4>
