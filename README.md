@@ -6,10 +6,11 @@ The Atlas of Design is dedicated to showing off some of the world’s most beaut
 
 #### The Team
 
-* Nat Case, Editor
-* Tracy Tien, Editor
+* Nat Case, Series Managing Editor.
+* Aileen Clarke, Editor
+* Daniel Coe, Editor
+* Erin Greb, Editor
 * Aaron Koelker, Editor
-* Josh Ryan, Editor
 
 ## Installation
 

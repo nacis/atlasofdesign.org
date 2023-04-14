@@ -16,9 +16,9 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Daniel Coe</strong> is the graphics editor for the Washington Geological Survey in Olympia, Washington, where his work highlights the geomorphology and natural hazards of the region. When not making maps, he is usually out exploring the forests and waters of Washington with his family. You can find him at <a href="https://dancoecarto.com/">dancoecarto.com</a> or on Twitter at <a href="https://twitter.com/geo_coe">@geo_coe</a>.
 
-<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
-
 <strong>Erin Greb</strong> is a freelance cartographer, working with a variety of book publishers, and is also a contributing cartographer for Purple Lizard Maps. When not making maps of trails in the woods, she is out hiking or biking on them. You can find her at <a href="https://www.eringrebcartography.com/">www.eringrebcartography.com</a> or on Twitter at <a href="https://twitter.com/eringrebmaps">@eringrebmaps</a>.
+
+<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
 
 
 
