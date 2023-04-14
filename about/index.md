@@ -32,10 +32,12 @@ Volume 5 is available for order.<br>
 
 ## Volume 4
 
-Volume 4 is sold out.
+Volume 4 reprints are available for pre-order.
 
-You can join the waiting list for reprints of Volume 4 here: <br>
-<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-4-reprint" target="_blank" class="button button-blue">PRE-ORDER VOL 4  <i class="fa fa-hand-o-right"></i></a>
+
+<!--You can join the waiting list for reprints of Volume 4 here: <br>
+<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>-->
 
 Preview the maps featured in Volume 4 here:  <br>
 
@@ -61,9 +63,11 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 ## Volume 1
 
-Volume 1 is sold out.
+Volume 1 reprints are available for pre-order.
 
 The reprinted version of Volume 1 was redesigned to match the size of subsequent volumes, with 12" x 9" pages.
+
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-1-reprint" target="_blank" class="button button-blue">PRE-ORDER VOL 1  <i class="fa fa-hand-o-right"></i></a>
 
 Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 
