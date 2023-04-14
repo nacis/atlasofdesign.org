@@ -7,7 +7,7 @@ header_img: /img/vol3_2226_clip.jpg
 
 **Order by 11:59 US Central Time on May 15** and copies of Volumes 1 and 4 are just $30 each (regular list price $35.) NACIS members will pay just $22.50 (regularly $26.25) by using a special discount code found on the [NACIS website when logged in](https://nacis.org/initiatives/atlas-of-design/atlas-member-discount-code/)
 
-<a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-blue">ORDER BOOKS  <i class="fa fa-book"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/" target="_blank" class="button button-blue">PRE-ORDER NOW  <i class="fa fa-book"></i></a>
 
 <br>
 <hr>
