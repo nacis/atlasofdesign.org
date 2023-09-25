@@ -11,7 +11,7 @@ The <em>Atlas of Design</em> is dedicated to showing off some of the world's mos
 
 The <em>Atlas</em> aims to inspire readers both within the field of cartography and without toward new understandings of design, and of the power that a well-crafted map can have. In an age when more and more mapping tasks are being turned over to computers, the <em>Atlas</em> provides one more answer to the question: What do cartographers do?
 
-The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a not-for-profit professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
+The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
 ## Volume 6
 
@@ -32,12 +32,10 @@ Volume 5 is available for order.<br>
 
 ## Volume 4
 
-Volume 4 reprints are available for pre-order.
+Volume 4 has been reprinted and is now available for order.
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-4-reprint" target="_blank" class="button button-blue">PRE-ORDER VOL 4  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-4-reprint" target="_blank" class="button button-blue">ORDER VOL 4  <i class="fa fa-hand-o-right"></i></a>
 
-<!--You can join the waiting list for reprints of Volume 4 here: <br>
-<a href="https://forms.gle/5e4yfBRvRCZUube56" target="_blank" class="button">Contact form for Volume 4 reprints <i class="fa fa-list"></i></a>-->
 
 Preview the maps featured in Volume 4 here:  <br>
 
@@ -45,7 +43,9 @@ Preview the maps featured in Volume 4 here:  <br>
 
 ## Volume 3
 
-Volume 3 has been reprinted and is now available to order. Please visit our [reprints page](/reprints).
+Volume 3 has been reprinted and is now available to order. 
+
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-3-reprint" target="_blank" class="button button-blue">ORDER VOL 3  <i class="fa fa-hand-o-right"></i></a>
 
 Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
@@ -55,7 +55,9 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 ## Volume 2
 
-Volume 2 has been reprinted and is now available to order. Please visit our [reprints page](/reprints).
+Volume 2 has been reprinted and is now available to order.
+
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-2x" target="_blank" class="button button-blue">ORDER VOL 2  <i class="fa fa-hand-o-right"></i></a>
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -63,11 +65,11 @@ Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 
 
 ## Volume 1
 
-Volume 1 reprints are available for pre-order.
+Volume 1has been reprinted and is now available for order.
 
 The reprinted version of Volume 1 was redesigned to match the size of subsequent volumes, with 12" x 9" pages.
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-1-reprint" target="_blank" class="button button-blue">PRE-ORDER VOL 1  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-1" target="_blank" class="button button-blue">ORDER VOL 1  <i class="fa fa-hand-o-right"></i></a>
 
 Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 
