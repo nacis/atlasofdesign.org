@@ -5,7 +5,7 @@ header_img: /img/millford.jpg
 header_caption: "The Millford Track (Roger Smith)"
 ---
 
-Submissions for Volume VI of the _Atlas of Design_ are now closed.
+Submissions for Volume VII of the _Atlas of Design_ will open in October 2023.
 
-Thanks for all your submissions!
-<br><br>-- Editors Nat, Aaron, Tracy, Josh
+
+<br><br>-- Editors Aaron, Aileen, Dan, Erin, and Nat
