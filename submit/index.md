@@ -9,7 +9,7 @@ Submissions for Volume VII of the _Atlas of Design_ are now open [here](https://
 
 All submissions must be received by January 21, 2024, at 11:59 PM PST.
 
-For more information about the Atlas, NACIS, and submissions, check out our [FAQ](https://nacis.us8.list-manage.com/track/click?u=b740cbaa4c79c7986fc394482&id=3de0fea11a&e=d7afc2aab7).
+For more information about the Atlas, NACIS, and submissions, check out our [FAQ](https://docs.google.com/document/d/e/2PACX-1vRKj_S091W6B6OX6HPfXjrGbOp6vTquQ-EFQowvZplZHmBZSUSyDMSNn9Y5-n_yslWwZVlUj7qfwTc2/pub).
 
 
 <br><br>-- Editors Aaron, Aileen, Dan, Erin, and Nat
