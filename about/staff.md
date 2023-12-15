@@ -18,7 +18,7 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Erin Greb</strong> is a freelance cartographer, working with a variety of book publishers, and is also a contributing cartographer for Purple Lizard Maps. When not making maps of trails in the woods, she is out hiking or biking on them. You can find her at <a href="https://www.eringrebcartography.com/">www.eringrebcartography.com</a> or on Twitter at <a href="https://twitter.com/eringrebmaps">@eringrebmaps</a>.
 
-<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
+<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him at <a href="https://aaronkoelker.com/">aaronkoelker.com</a> or on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
 
 
 
@@ -32,7 +32,7 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Caroline Rose</strong> served as editor for Volume 5 and is a GIS specialist and cartographer at the Wisconsin Geological and Natural History Survey, where her designs help people visualize the geology and groundwater of the state. She enjoys working in sculptural media just as much as javascript. Find her on Twitter at <a href="https://twitter.com/cmrrose">@cmrRose</a>.
 
-<strong>Vanessa Knoppke-Wetzel</strong> served as editor for Volume 5 and is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is a Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on twitter: <a href="https://twitter.com/run_for_funner">@run_for_funner</a>
+<strong>Vanessa Knoppke-Wetzel</strong> served as editor for Volume 5 and is a detail-oriented cartographer, analyst and designer that loves thinking about how to create and design products and utilize spatial data to tell visual stories in the best way possible. She is a Senior Map Designer at Mapbox, and also the founder of #creativeCarto. In her free time, you can find her lifting weights, running, or enjoying the outdoors. Chat with her on Twitter: <a href="https://twitter.com/run_for_funner">@run_for_funner</a>
 
 <strong>Alethea Steingisser</strong> served as an editor for Volume 4 and is a cartographer and production manager at the University of Oregon's InfoGraphics Lab. She works primarily on large atlas projects and loves maps because of their ability to tell complex stories. You can find her on Twitter at <a href="https://twitter.com/asteingisser">@asteingisser</a>.
 
