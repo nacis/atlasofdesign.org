@@ -49,7 +49,6 @@ Here are maps you’ll find in the Atlas of Design Volume VII:
 | Zibo Map of Culture and Tourism                                    | Chenxiao (Atlas) Guo                                                                     |
 
 ---
-<br>
 
 We’d also like to acknowledge a distinguished group of honorable mentions. These maps were all seriously considered for inclusion in the final volume, but unfortunately, we can only include so many—our final selection was as much about balance and variety as it was about quality!
 
