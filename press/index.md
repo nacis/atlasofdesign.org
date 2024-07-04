@@ -10,7 +10,13 @@ If you are interested in featuring the Atlas in your blog or journal, please con
 
 ## Imagery
 
-All imagery must be credited to Caroline Rose, our photographer for volumes 1 through 6. We have images for [Volume 1](/press/photos-v1.zip), [Volume 2](/press/photos-v2.zip), [Volume 3](/press/photos-v3zip), [Volume 5](/press/photos-v5.zip), and [Volume 6](/press/photos-v6.zip).
+All imagery must be credited to the respective photographer that edition. Caroline Rose took photographs for Volumes 1 through 4, Nat Case took photographs for Volume 5, and Dan Bennett took photographs for Volume 6. 
+- [Volume 1](/press/photos-v1.zip)
+- [Volume 2](/press/photos-v2.zip)
+- [Volume 3](/press/photos-v3.zip)
+- [Volume 4](/press/photos-v4.zip)
+- [Volume 5](/press/photos-v5.zip)
+- [Volume 6](/press/photos-v6.zip)
 
 ## Logos
 
