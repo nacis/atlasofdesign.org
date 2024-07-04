@@ -20,4 +20,4 @@ All imagery must be credited to the respective photographer that edition. Caroli
 
 ## Logos
 
-You can download our logo in a variety of formats [here](/press/logos.zip). 
+You can download our logo in a variety of formats [here](/press/logos.zip).
