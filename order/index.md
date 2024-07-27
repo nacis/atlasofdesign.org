@@ -10,7 +10,7 @@ header_img: /img/vol3_2226_clip.jpg
 
 <br>
 
-**All 6 volumes** of the <em>Atlas of Design</em> are now available to order on Amazon.com. 
+**All 6 volumes** of the <em>Atlas of Design</em> are now available to order on Amazon. 
 
 <a href="https://a.co/d/iguCRwc" target="_blank" class="button button-blue">Volume 1 <i class="fa fa-users"></i></a>
 <a href="https://a.co/d/bv1hy7Y" target="_blank" class="button button-blue">Volume 2<i class="fa fa-users"></i></a>
