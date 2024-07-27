@@ -21,7 +21,7 @@ header_img: /img/vol3_2226_clip.jpg
 
 <br>
 
-To order as a US sales-tax-exempt entity, please click [here](https://atlasofdesign.bigcartel.com/tax-exempt) for more details.
+To order as a **US sales-tax-exempt entity**, please click [here](https://atlasofdesign.bigcartel.com/tax-exempt) for more details.
 
 
 

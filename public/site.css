@@ -229,6 +229,7 @@ MAIN NAVIGATION
 .button {
   background: #d2d2d2;
   padding: .8em 1em;
+  margin: 5;
   color: #333;
   text-decoration: none;
   border-radius: 3px;
