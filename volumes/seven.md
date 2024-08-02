@@ -1,7 +1,7 @@
 ---
 title: Volume Seven
 layout: volume
-permalink: /Seven
+permalink: /seven
 data: volume-7
 header_img: /img/vol7-index.png
 ---
