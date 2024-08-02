@@ -13,6 +13,14 @@ The <em>Atlas</em> aims to inspire readers both within the field of cartograph
 
 The Atlas is published by the <a href="http://nacis.org">North American Cartographic Information Society</a>, a professional organization for mapmakers. It's managed by a small, but enthusiastic, <a title="Staff" href="http://atlasofdesign.org/about/staff/">group of volunteers</a>.
 
+## Volume 7
+
+Volume 7 will be available to order soon.<br>
+
+<!-- <a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-6" target="_blank" class="button button-blue">ORDER VOL 6  <i class="fa fa-hand-o-right"></i></a> -->
+
+<a class="button" href="http://atlasofdesign.org/seven">View Volume 7</a>
+
 ## Volume 6
 
 Volume 6 is now available for order.<br>
