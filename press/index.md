@@ -4,7 +4,7 @@ layout: page
 header_img: /img/manhattan.jpg
 ---
 
-The _Atlas of Design_ is a  collection of some of the World's most beautiful cartography. It covers all parts of the world, Mars, and even imaginary places. The 12" x 9" landscape book is funded and produced by [NACIS](http://nacis.org/) and a small group of dedicated [volunteers](/about/staff.md). The _Atlas_ has been featured in publications such as [Bloomberg's MapLab](https://www.bloomberg.com/news/newsletters/2022-11-16/maplab-here-comes-the-new-atlas-of-design), [National Geographic](https://www.nationalgeographic.com/culture/article/best-new-maps-atlas-design), [WIRED](https://www.wired.com/2016/11/atlas-design-back-wonderfully-funky-maps/), and [Flowingdata](https://flowingdata.com/2012/10/25/insisting-on-beautiful-maps/).
+The _Atlas of Design_ is a  collection of some of the World's most beautiful cartography. It covers all parts of the world, Mars, and even imaginary places. The 12" x 9" landscape book is funded and produced by [NACIS](http://nacis.org/) and a small group of dedicated [volunteers](/about/staff/). The _Atlas_ has been featured in publications such as [Bloomberg's MapLab](https://www.bloomberg.com/news/newsletters/2022-11-16/maplab-here-comes-the-new-atlas-of-design), [National Geographic](https://www.nationalgeographic.com/culture/article/best-new-maps-atlas-design), [WIRED](https://www.wired.com/2016/11/atlas-design-back-wonderfully-funky-maps/), and [Flowingdata](https://flowingdata.com/2012/10/25/insisting-on-beautiful-maps/).
 
 <strong>Volume 7</strong> will be released in October 2024 and you can view a preview of its maps [here](http://atlasofdesign.org/seven).
 
