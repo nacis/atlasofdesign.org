@@ -16,7 +16,7 @@ Production of Volume 7 is nearing completion—and inside you’ll find 33 beaut
 
 <em>Climbing Her Way to the Top, Janja Garnbret's Routes in the 2020 Olympics Bouldering Final</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Ravinovich.jpg" alt="honorable-mention-ravinovich-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Ravinovich.png" alt="honorable-mention-ravinovich-1" width="1024" height="464" />
 
 Aaron: This unique design pushes the definition of what a map can be, and communicates the complexity and skill of high-level bouldering. A welcoming simplicity at first glance helps ease readers into what’s really a very complicated series of paths and movements beneath. It certainly got me interested in learning more about the sport! For those curious, you can watch Janja Garnbret’s Olympic performance to compare [here](https://www.youtube.com/watch?si=Y3Pqg6u8aLaBNtNY&t=103&v=khb7pSEUedc&feature=youtu.be), and you can find more of Abigail's work on X(Twitter) [@abigail2154](https://x.com/abigail2154) and [LinkedIn](https://www.linkedin.com/in/abiga%C3%AFl-rabinovitch-b62632bb/).  
 
@@ -57,7 +57,7 @@ Erin: In an ideal scenario, a flow map would provide ample space for all lines, 
 
 <em>Environmental Shocks: Jeopardizing development gains</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Dietrich.jpg" alt="honorable-mention-dietrich-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Dietrich.png" alt="honorable-mention-dietrich-1" width="1024" height="464" />
 
 Erin: When looking at this pair of maps, one can easily see how humans have impacted the earth, and how the planet in return can devastate populations through environmental disasters –what the author terms “environmental karma.” This double-page spread, featured in the [EUISS Africa Atlas](https://espas.secure.europarl.europa.eu/orbis/system/files/generated/document/en/Africa%20Atlas.pdf), is a collaborative effort between the African Union and the European Union. I hope that these maps can aid both regions in mitigating the aftermath of historical damage.
 
@@ -73,6 +73,6 @@ Aileen: Whether or not you used this map to plan your eclipse road trip, Michala
 
 <em>The Portarlington Map</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Clarke-YoungMonk-Rodwell.jpg" alt="honorable-mention-clarke-youngmonk-rodwell-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Clarke-YoungMonk-Rodwell.png" alt="honorable-mention-clarke-youngmonk-rodwell-1" width="1024" height="464" />
 
 Aileen: After the success of their illustrated map of the Bellarine Peninsula, featured in Volume 6 of the Atlas, Melinda, Deborah, and Sean teamed up again to bring us another fantastically detailed and gorgeously illustrated map of Portarlington. In this map, they gave themselves more freedom in their approach. They eschewed the north-up convention and created an oblique view of this small town, allowing the viewer to get lost in the details amongst the horses, boats, homes, and residents. You can find more of their maps at [The Melbourne Map](https://www.themelbournemap.com.au/pages/about).
