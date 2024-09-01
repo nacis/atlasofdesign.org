@@ -76,18 +76,3 @@ Aileen: Whether or not you used this map to plan your eclipse road trip, Michala
 <img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Clarke-YoungMonk-Rodwell.jpg" alt="honorable-mention-clarke-youngmonk-rodwell-1" width="1024" height="464" />
 
 Aileen: After the success of their illustrated map of the Bellarine Peninsula, featured in Volume 6 of the Atlas, Melinda, Deborah, and Sean teamed up again to bring us another fantastically detailed and gorgeously illustrated map of Portarlington. In this map, they gave themselves more freedom in their approach. They eschewed the north-up convention and created an oblique view of this small town, allowing the viewer to get lost in the details amongst the horses, boats, homes, and residents. You can find more of their maps at [The Melbourne Map](https://www.themelbournemap.com.au/pages/about).
-
-
-
-
-
-
-
-
-
-We’re also excited to announce that you can now find all previous volumes of the Atlas of Design on Amazon, in addition to our Big Cartel webstore. We’ve done this to provide readers more options and expand our visibility. For [institutional purchases](https://atlasofdesign.bigcartel.com/tax-exempt), all volumes are also still available from East View. Please note, however, that pre-orders for Volume 7 can only be done through our Big Cartel webstore. It will be available to purchase directly from Amazon and East View after its release in October 2024. 
-
-As always, thank you for your support. We can’t wait for you to see what’s in this next volume!
-
-The Editors:
-Aileen, Dan, Erin, Aaron
