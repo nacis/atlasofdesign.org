@@ -16,7 +16,7 @@ Production of Volume 7 is nearing completion—and inside you’ll find 33 beaut
 
 <em>Climbing Her Way to the Top, Janja Garnbret's Routes in the 2020 Olympics Bouldering Final</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Ravinovich.png" alt="honorable-mention-ravinovich-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Ravinovitch.png" alt="honorable-mention-ravinovich-1" width="1024" height="464" />
 
 Aaron: This unique design pushes the definition of what a map can be, and communicates the complexity and skill of high-level bouldering. A welcoming simplicity at first glance helps ease readers into what’s really a very complicated series of paths and movements beneath. It certainly got me interested in learning more about the sport! For those curious, you can watch Janja Garnbret’s Olympic performance to compare [here](https://www.youtube.com/watch?si=Y3Pqg6u8aLaBNtNY&t=103&v=khb7pSEUedc&feature=youtu.be), and you can find more of Abigail's work on X(Twitter) [@abigail2154](https://x.com/abigail2154) and [LinkedIn](https://www.linkedin.com/in/abiga%C3%AFl-rabinovitch-b62632bb/).  
 
@@ -32,7 +32,7 @@ Aaron: There’s a lot to take in with this illustrated map of the Río Negro Pr
 
 <em>A Map of Bolton Fell Moss</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Cann.jpg" alt="honorable-mention-cann-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Cann.jpeg" alt="honorable-mention-cann-1" width="1024" height="464" />
 
 Dan: This richly-detailed, hand-drawn map illustrates the story of Bolton Fell Moss peatland in North West England. The peatland’s milling history, present restoration, and future as a carbon sink are all interwoven into the site’s landmarks and routes in this wonderful map, designed as an informational sign for the Bolton Fell Moss National Nature Reserve. You can read more about the project [here](https://helencann.co.uk/a-map-of-bolton-fell-moss) and see more of Helen’s work at her website [helencann.co.uk](http://helencann.co.uk) or on Instagram [@helencannart](https://www.instagram.com/helencannart).
 
