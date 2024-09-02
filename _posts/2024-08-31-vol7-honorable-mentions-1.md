@@ -12,11 +12,11 @@ Production of Volume 7 is nearing completion—and inside you’ll find 33 beaut
 <em>The comments in this series are the opinions of the editors and do not speak for the authors of the maps, nor do they offer an official Atlas of Design opinion. We simply wish to point you in the direction of some additional well-crafted maps and their authors. We hope you will find them inspiring and encourage you to check out more of their work!
 </em>
 
-<b>Abigail Ravinovitch</b>
+<b>Abigail Rabinovitch</b>
 
 <em>Climbing Her Way to the Top, Janja Garnbret's Routes in the 2020 Olympics Bouldering Final</em>
 
-<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Ravinovitch.png" alt="honorable-mention-ravinovich-1" width="1024" height="464" />
+<img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Rabinovitch.png" alt="honorable-mention-rabinovich-1" width="1024" height="464" />
 
 Aaron: This unique design pushes the definition of what a map can be, and communicates the complexity and skill of high-level bouldering. A welcoming simplicity at first glance helps ease readers into what’s really a very complicated series of paths and movements beneath. It certainly got me interested in learning more about the sport! For those curious, you can watch Janja Garnbret’s Olympic performance to compare [here](https://www.youtube.com/watch?si=Y3Pqg6u8aLaBNtNY&t=103&v=khb7pSEUedc&feature=youtu.be), and you can find more of Abigail's work on X(Twitter) [@abigail2154](https://x.com/abigail2154) and [LinkedIn](https://www.linkedin.com/in/abiga%C3%AFl-rabinovitch-b62632bb/).  
 
