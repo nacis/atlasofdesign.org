@@ -3,7 +3,6 @@ title: "Volume VII Honorable Mentions: Part 1"
 layout: post
 ---
 
-### We’re pleased to announce that pre-orders for Atlas of Design Volume 7 are now live!
 
 Hello map aficionados!
 
@@ -76,3 +75,7 @@ Aileen: Whether or not you used this map to plan your eclipse road trip, Michala
 <img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Clarke-YoungMonk-Rodwell.png" alt="honorable-mention-clarke-youngmonk-rodwell-1" width="1024" height="464" />
 
 Aileen: After the success of their illustrated map of the Bellarine Peninsula, featured in Volume 6 of the Atlas, Melinda, Deborah, and Sean teamed up again to bring us another fantastically detailed and gorgeously illustrated map of Portarlington. In this map, they gave themselves more freedom in their approach. They eschewed the north-up convention and created an oblique view of this small town, allowing the viewer to get lost in the details amongst the horses, boats, homes, and residents. You can find more of their maps at [The Melbourne Map](https://www.themelbournemap.com.au/pages/about).
+
+
+
+Volume 7 is now available for pre-order! Visit our <a href="/order">orders page</a> to get yours today!
