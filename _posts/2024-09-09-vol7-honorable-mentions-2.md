@@ -66,7 +66,7 @@ Erin: Drawing inspiration from Tolkien's map style, we are transported from Midd
 
 <img class="alignnone wp-image-1469 size-large" src="/img/v7-HM-Renolen.png" alt="honorable-mention-renolen-1" width="1024" height="464" />
 
-Aileen: Trollheimen is an exploration in reproducing the styles of 19th and 20th-century maps in a 21st-century world. Agnar masterfully melded distinctly modern data types, like raster elevation data, and contemporary data tools with the styles of maps made over 100 years ago like a limited color palette and simple dots, dashes, and shapes to indicate features on the map. It's a delight to get lost in! You can find more of Agnar’s work on their [website](https://agnarrenolen.wixsite.com/cartography).
+Aileen: Trollheimen is an exploration in reproducing the styles of 19th and 20th-century maps in a 21st-century world. Agnar masterfully melded distinctly modern data types, like raster elevation data, and contemporary data tools with the styles of maps made over 100 years ago like a limited color palette and simple dots, dashes, and shapes to indicate features on the map. It's a delight to get lost in! You can find more of Agnar’s work on their [website](https://finekart.no).
 
 <b>Feiran SUN, Yameng WANG, Xi TANG, Institute of Cartography, East China Normal University</b>
 
