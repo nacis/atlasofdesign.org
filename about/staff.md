@@ -12,17 +12,23 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Nat Case</strong> is a freelance cartographer in Minneapolis who has been making maps and managing publications since 1989. He is co-owner of INCase, LLC. He's also a morris dancer and organizes pub sings in the Twin Cities. He's not on Twitter, but you can find him on Facebook, where he's very active.
 
-<strong>Aileen Clarke</strong> is currently a graphics fellow with the New York Times, based in New York City. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a> or on Twitter at <a href="https://twitter.com/_AileenClarke">@_AileenClarke</a>.
+<strong>Aileen Clarke</strong> is cartographer and graphics journalist based in New York City. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a> or on Twitter at <a href="https://twitter.com/_AileenClarke">@_AileenClarke</a>.
 
-<strong>Daniel Coe</strong> is the graphics editor for the Washington Geological Survey in Olympia, Washington, where his work highlights the geomorphology and natural hazards of the region. When not making maps, he is usually out exploring the forests and waters of Washington with his family. You can find him at <a href="https://dancoecarto.com/">dancoecarto.com</a> or on Twitter at <a href="https://twitter.com/geo_coe">@geo_coe</a>.
+<strong>Mir Rodríguez</strong> 
 
-<strong>Erin Greb</strong> is a freelance cartographer, working with a variety of book publishers, and is also a contributing cartographer for Purple Lizard Maps. When not making maps of trails in the woods, she is out hiking or biking on them. You can find her at <a href="https://www.eringrebcartography.com/">www.eringrebcartography.com</a> or on Twitter at <a href="https://twitter.com/eringrebmaps">@eringrebmaps</a>.
+<strong>Kristin Sellers</strong> 
 
-<strong>Aaron Koelker</strong> is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him at <a href="https://aaronkoelker.com/">aaronkoelker.com</a> or on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
+<strong>Jake Steinberg</strong>
 
 
 
 <h4>Past Editors</h4>
+
+<strong>Daniel Coe</strong> served as editor for Volume 7 and is the graphics editor for the Washington Geological Survey in Olympia, Washington, where his work highlights the geomorphology and natural hazards of the region. When not making maps, he is usually out exploring the forests and waters of Washington with his family. You can find him at <a href="https://dancoecarto.com/">dancoecarto.com</a> or on Twitter at <a href="https://twitter.com/geo_coe">@geo_coe</a>.
+
+<strong>Erin Greb</strong> served as editor for Volume 7 and is a freelance cartographer, working with a variety of book publishers, and is also a contributing cartographer for Purple Lizard Maps. When not making maps of trails in the woods, she is out hiking or biking on them. You can find her at <a href="https://www.eringrebcartography.com/">www.eringrebcartography.com</a> or on Twitter at <a href="https://twitter.com/eringrebmaps">@eringrebmaps</a>.
+
+<strong>Aaron Koelker</strong> served as editor for Volumes 6 and 7 and is a GIS specialist with the Florida Dept of Environmental Protection, where he gets to dabble with all sorts of spatial-related things. When not designing maps, he likes to take pictures or make things out of wood. You can find him at <a href="https://aaronkoelker.com/">aaronkoelker.com</a> or on Twitter at [@AaronKoelker](https://twitter.com/AaronKoelker).
 
 <strong>Josh Ryan</strong> served as editor for Volume 6 and is a Senior Front-end Developer for the San Antonio Spurs. While most of his time is spent thinking about basketball and ways to visualize it, he still gets time here and there to be with his first love: maps. You can find him on Twitter at [@karenkingfisher](https://twitter.com/karenkingfisher)
 
