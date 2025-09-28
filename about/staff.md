@@ -14,7 +14,7 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Aileen Clarke</strong> is cartographer and graphics journalist based in New York City. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a> or on Twitter at <a href="https://twitter.com/_AileenClarke">@_AileenClarke</a>.
 
-<strong>Mir Rodríguez</strong> 
+<strong>Mir Rodríguez Lombardo</strong> 
 
 <strong>Kristin Sellers</strong> 
 
