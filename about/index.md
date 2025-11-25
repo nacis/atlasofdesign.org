@@ -15,7 +15,7 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 ## Volume 7
 
-Volume 7 is now available for pre-order for pick up at the 2024 NACIS Annual Meeting in Tacoma, WA or for delivery.<br>
+Volume 7 is available for order.<br>
 
 <a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-7" target="_blank" class="button button-blue">ORDER VOL 7  <i class="fa fa-hand-o-right"></i></a>
 
@@ -23,7 +23,7 @@ Volume 7 is now available for pre-order for pick up at the 2024 NACIS Annual Mee
 
 ## Volume 6
 
-Volume 6 is now available for order.<br>
+Volume 6 is available for order.<br>
 
 <a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-6" target="_blank" class="button button-blue">ORDER VOL 6  <i class="fa fa-hand-o-right"></i></a>
 

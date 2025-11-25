@@ -12,14 +12,13 @@ The Atlas of Design is a product of the [North American Cartographic Information
 
 <strong>Nat Case</strong> is a freelance cartographer in Minneapolis who has been making maps and managing publications since 1989. He is co-owner of INCase, LLC. He's also a morris dancer and organizes pub sings in the Twin Cities. He's not on Twitter, but you can find him on Facebook, where he's very active.
 
-<strong>Aileen Clarke</strong> (she/her) is cartographer and graphics journalist based in New York City. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a> or on Twitter at <a href="https://twitter.com/_AileenClarke">@_AileenClarke</a>.
+<strong>Aileen Clarke</strong> (she/her) is cartographer and graphics journalist based in New York City. She loves to make maps of Washington, DC, where she lived for six years. When she's not mapping, she enjoys collecting weird vintage cookbooks, taking walks to pet the neighborhood cats, and baking cookies to share with friends. You can find her at <a href="https://aileenclarke.github.io/">aileenclarke.com</a>.
 
 <strong>Mir Rodríguez Lombardo</strong> 
 
-<strong>Kristin Sellers</strong> 
+<strong>Kristin Sellers</strong> is a cartographer and data analyst based in Portland, OR. She loves telling stories with maps across a variety of mediums, ranging from making maps for textbooks and atlases to experimenting with mapmaking in zines and risograph printing. When she's not designing maps or visualizing data, she enjoys reading science fiction, training in Muay Thai, and playing piano. You can find her on Bluesky at <a href="https://bsky.app/profile/kmsellers.bsky.social">@kmsellers</a>. 
 
-<strong>Jake Steinberg</strong>
-
+<strong>Jake Steinberg</strong> is a Minneapolis-based freelance cartographer and journalist. He's a graphics reporter at the Minnesota Star Tribune, where he tells stories with maps. An intrepid reporter, he once catalogued and mapped all the smells at the Minnesota State Fair for a story. When not mapping you'll find Jake biking, rock climbing, fly fishing, or otherwise outside with Juneau, his American dingo. You can find him at <a href="https://www.jakesteinberg.com/">jakesteinberg.com</a>.
 
 
 <h4>Past Editors</h4>
