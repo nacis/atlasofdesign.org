@@ -17,7 +17,7 @@ The Atlas is published by the <a href="http://nacis.org">North American Cartogra
 
 Volume 7 is available for order.<br>
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-7" target="_blank" class="button button-blue">ORDER VOL 7  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10283" target="_blank" class="button button-blue">ORDER VOL 7  <i class="fa fa-hand-o-right"></i></a>
 
 <a class="button" href="http://atlasofdesign.org/seven">View Volume 7</a>
 
@@ -25,7 +25,7 @@ Volume 7 is available for order.<br>
 
 Volume 6 is available for order.<br>
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-6" target="_blank" class="button button-blue">ORDER VOL 6  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10282" target="_blank" class="button button-blue">ORDER VOL 6  <i class="fa fa-hand-o-right"></i></a>
 
 <a class="button" href="http://atlasofdesign.org/six">View Volume 6</a>
 
@@ -33,7 +33,7 @@ Volume 6 is available for order.<br>
 
 Volume 5 is available for order.<br>
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-5" target="_blank" class="button button-blue">ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10281" target="_blank" class="button button-blue">ORDER VOL 5  <i class="fa fa-hand-o-right"></i></a>
 
 <a class="button" href="http://atlasofdesign.org/five">View Volume 5</a>
 
@@ -42,7 +42,7 @@ Volume 5 is available for order.<br>
 
 Volume 4 has been reprinted and is now available for order.
 
-<a href="https://atlasofdesign.bigcartel.com/product/atlas-of-design-volume-4-reprint" target="_blank" class="button button-blue">ORDER VOL 4  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10280" target="_blank" class="button button-blue">ORDER VOL 4  <i class="fa fa-hand-o-right"></i></a>
 
 
 Preview the maps featured in Volume 4 here:  <br>
@@ -53,7 +53,7 @@ Preview the maps featured in Volume 4 here:  <br>
 
 Volume 3 has been reprinted and is now available to order. 
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-3-reprint" target="_blank" class="button button-blue">ORDER VOL 3  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10279" target="_blank" class="button button-blue">ORDER VOL 3  <i class="fa fa-hand-o-right"></i></a>
 
 Learn more about the book and contributors [here](/2016/10/16/v3-pre-release/).
 
@@ -65,7 +65,7 @@ Physical details: 98 pages, black matte hardcover, smythe sewn binding, 12" x 9"
 
 Volume 2 has been reprinted and is now available to order.
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-2x" target="_blank" class="button button-blue">ORDER VOL 2  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10277" target="_blank" class="button button-blue">ORDER VOL 2  <i class="fa fa-hand-o-right"></i></a>
 
 Physical details: 96 pages, hardcover, smythe sewn binding, 12" x 9" pages. 1.8 lbs.
 
@@ -77,7 +77,7 @@ Volume 1has been reprinted and is now available for order.
 
 The reprinted version of Volume 1 was redesigned to match the size of subsequent volumes, with 12" x 9" pages.
 
-<a href="https://atlasofdesign.bigcartel.com/product/pre-order-atlas-of-design-volume-1" target="_blank" class="button button-blue">ORDER VOL 1  <i class="fa fa-hand-o-right"></i></a>
+<a href="https://www.upress.virginia.edu/title/10253/" target="_blank" class="button button-blue">ORDER VOL 1  <i class="fa fa-hand-o-right"></i></a>
 
 Original printing of Volume 1: 88 pages, hardcover, smythe sewn binding, 8.5" x 11" pages.
 
